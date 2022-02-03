@@ -1,0 +1,3996 @@
+fileFormatVersion: 2
+guid: 7ba091b6c9d548148ad53574cf4cb324
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2984503646431918752
+    second: Marco
+  - first:
+      213: 8324686116851425348
+    second: FondoClasificacion
+  - first:
+      213: -3002839255581885050
+    second: FondoMar
+  - first:
+      213: 5036795136639031608
+    second: FondoHuerta
+  - first:
+      213: -2921314621670130423
+    second: Plataforma-1
+  - first:
+      213: 2951406275929280678
+    second: Boton-1
+  - first:
+      213: 59709477131067465
+    second: Boton-2
+  - first:
+      213: -4649216953336200349
+    second: Boton-3
+  - first:
+      213: -2608205616199824597
+    second: DesechoAluminio-1
+  - first:
+      213: 4386016124650028013
+    second: DesechoAluminio-2
+  - first:
+      213: -2225735188800399412
+    second: DesechoAluminio-3
+  - first:
+      213: -8660489773488528532
+    second: DesechoAluminio-4
+  - first:
+      213: 4987471343341593466
+    second: DesechoAluminio-5
+  - first:
+      213: 3794767033841501434
+    second: DesechosMar-1
+  - first:
+      213: 2104299782133767653
+    second: DesechosMar-2
+  - first:
+      213: 5564845208454755477
+    second: DesechosMar-3
+  - first:
+      213: 6764025901565196931
+    second: Boton-4
+  - first:
+      213: 8781502456743001015
+    second: Boton-5
+  - first:
+      213: 1879528160680795931
+    second: Boton-6
+  - first:
+      213: 7363816199640454732
+    second: DesechoAluminio-6
+  - first:
+      213: 118955394949823737
+    second: DesechoAluminio-7
+  - first:
+      213: -3414816841505287090
+    second: DesechoAluminio-8
+  - first:
+      213: 6160969563269795630
+    second: DesechoAluminio-9
+  - first:
+      213: -4118585121630997885
+    second: DesechoOrganico-1
+  - first:
+      213: -5606594831450190775
+    second: DesechosMar-4
+  - first:
+      213: 5460170565606490912
+    second: DesechosMar-5
+  - first:
+      213: 715675090860040534
+    second: DesechosMar-6
+  - first:
+      213: -5710126266670225707
+    second: Plataforma-2
+  - first:
+      213: 1595023578275775204
+    second: Boton-7
+  - first:
+      213: -2602011367582046591
+    second: Boton-8
+  - first:
+      213: -6204355879172683112
+    second: Boton-9
+  - first:
+      213: 6788291381560959089
+    second: DesechoOrganico-2
+  - first:
+      213: 925284230996875626
+    second: DesechoOrganico-3
+  - first:
+      213: -2179945776795374223
+    second: DesechoOrganico-4
+  - first:
+      213: -6289567069361801065
+    second: DesechoVidrio-1
+  - first:
+      213: 1831381473891531600
+    second: DesechoVidrio-2
+  - first:
+      213: -7012689680506942019
+    second: DesechosMar-7
+  - first:
+      213: -6881487222494005846
+    second: DesechosMar-8
+  - first:
+      213: -1185638904376020416
+    second: DesechosMar-9
+  - first:
+      213: 6202967237759470286
+    second: DesechoVidrio-3
+  - first:
+      213: 9000662080250392122
+    second: DesechoVidrio-4
+  - first:
+      213: 8302893058153567216
+    second: DesechoVidrio-5
+  - first:
+      213: -7424958551260750855
+    second: DesechoPapel-1
+  - first:
+      213: 1604001712597733242
+    second: DesechoEnvaces-3
+  - first:
+      213: -7764039233273418136
+    second: DesechosMar-10
+  - first:
+      213: 6954919406562505694
+    second: DesechosMar-11
+  - first:
+      213: -1401532906740320793
+    second: Plataforma-3
+  - first:
+      213: -6627268587127345110
+    second: Remolino-1
+  - first:
+      213: -305773501475672625
+    second: Remolino-2
+  - first:
+      213: 8157874845777121617
+    second: DesechoPapel-3
+  - first:
+      213: 6704635927359059606
+    second: DesechoEnvaces-5
+  - first:
+      213: -1844880489623952155
+    second: DesechoPapel-4
+  - first:
+      213: 2952915211779850459
+    second: DesechoEnvaces-2
+  - first:
+      213: -8147163934347288909
+    second: Remolino-3
+  - first:
+      213: -701495055990690684
+    second: Remolino-4
+  - first:
+      213: 5060399367180224907
+    second: DesechoEnvaces-4
+  - first:
+      213: 1686772124652313348
+    second: DesechosMar-12
+  - first:
+      213: 4524188572598557941
+    second: Remolino-
+  - first:
+      213: 6485051570667054436
+    second: BasuraPlataforma-1
+  - first:
+      213: -8735793401746158581
+    second: BasuraPlataforma-2
+  - first:
+      213: 5965414949309486834
+    second: Huerto-1
+  - first:
+      213: 4847393312181597357
+    second: Huerto-3
+  - first:
+      213: -8760082288718485585
+    second: Huerto-2
+  - first:
+      213: -2371698254368877847
+    second: DesechoEnvaces-1
+  - first:
+      213: -1757867129671557707
+    second: DesechoPapel-2
+  - first:
+      213: 2901728828747042770
+    second: BasurinIdle-1
+  - first:
+      213: -8784706974499157841
+    second: BasurinIdle-2
+  - first:
+      213: 4749983950244463660
+    second: BasurinIdle-3
+  - first:
+      213: -8549681636755962552
+    second: Sprite Atlas_Eco Adventure_80
+  - first:
+      213: 5588679705600494417
+    second: Eco-BotHappy-1
+  - first:
+      213: 854445179086056117
+    second: Eco-BotHappy-2
+  - first:
+      213: -987313030118991353
+    second: Eco-BotHappy-3
+  - first:
+      213: -6549204471407633436
+    second: BasurinHappy-2
+  - first:
+      213: 1187356884759939026
+    second: BasurinHappy-3
+  - first:
+      213: -1275675730701192237
+    second: BasurinHappy-1
+  - first:
+      213: 5897894509657576429
+    second: Eco-BotHappy-4
+  - first:
+      213: -2218320642328571494
+    second: Eco-BotSad-1
+  - first:
+      213: -5010127653380146476
+    second: Eco-BotSad-2
+  - first:
+      213: -6879868648738115760
+    second: Eco-BotSad-3
+  - first:
+      213: -3692238495540251153
+    second: BasurinHappy-4
+  - first:
+      213: -355909961843303135
+    second: BasurinSad-2
+  - first:
+      213: 6615800136869114236
+    second: BasurinSad-1
+  - first:
+      213: -8039840512611061875
+    second: Eco-BotSad-4
+  - first:
+      213: -5012445500210370536
+    second: Eco-BotIdle-1
+  - first:
+      213: -8408850397504515643
+    second: Eco-BotIdle-2
+  - first:
+      213: -720281461176182765
+    second: Eco-BotIdle-3
+  - first:
+      213: -8299828484685061442
+    second: BasurinSad-3
+  - first:
+      213: -2614165373362950845
+    second: BasurinSad-4
+  - first:
+      213: 6656699175424509884
+    second: BasurinSad-5
+  - first:
+      213: -4473397841089350966
+    second: Eco-BotIdle-4
+  - first:
+      213: -8264243122012020105
+    second: Eco-Bot-1
+  - first:
+      213: -4076228833740745708
+    second: Eco-BotSad-
+  - first:
+      213: 7614258855179949238
+    second: Sprite Atlas_Eco Adventure_130
+  - first:
+      213: 2829622534331437710
+    second: Nube-1
+  - first:
+      213: -2263361222721835056
+    second: Nube-2
+  - first:
+      213: 4716181216591379425
+    second: Barco-1
+  - first:
+      213: 7211095211601836642
+    second: Barco-2
+  - first:
+      213: 453026724794743318
+    second: HuertaMusica-1
+  - first:
+      213: 7435007536784526996
+    second: HuertaMusica-2
+  - first:
+      213: 3283690663806649048
+    second: HuertaAbono-1
+  - first:
+      213: 1252512073751170592
+    second: HuertaAbono-2
+  - first:
+      213: 3479570743784818850
+    second: HuertaRegadera-1
+  - first:
+      213: 1741961002965864739
+    second: HuertaRegadera-2
+  - first:
+      213: 7795346636366127281
+    second: Tortuga-1
+  - first:
+      213: 7662288081342327736
+    second: Tortuga-2
+  - first:
+      213: -5607877786830926692
+    second: Tortuga-3
+  - first:
+      213: -5426911120058411666
+    second: Petroleo
+  - first:
+      213: 7768842488038331209
+    second: Barco-3
+  - first:
+      213: -5611437780906273841
+    second: Barco-4
+  - first:
+      213: 4714974801689074884
+    second: Tortuga-4
+  - first:
+      213: 2078197621528360245
+    second: Tortuga-5
+  - first:
+      213: 6094721503531587240
+    second: Tortuga-6
+  - first:
+      213: -7528004998505924451
+    second: Nubes-3
+  - first:
+      213: -7940193827355233201
+    second: Mar-2
+  - first:
+      213: -3243302798681067940
+    second: HuertaMusica-3
+  - first:
+      213: -6124958751863064023
+    second: HuertaMusica-4
+  - first:
+      213: 4612677350330256290
+    second: HuertaAbono-3
+  - first:
+      213: 6333177909429440379
+    second: HuertaAbono-4
+  - first:
+      213: 5964318285731810935
+    second: HuertaRegadera-3
+  - first:
+      213: -8089274521865265942
+    second: HuertaRegadera-4
+  - first:
+      213: -1810475005302420262
+    second: Tortuga-7
+  - first:
+      213: -6050427039341305857
+    second: TortugaLeaving-1
+  - first:
+      213: 8201162853134875892
+    second: TortugaLeaving-2
+  - first:
+      213: 981327241292419925
+    second: TortugaLeaving-3
+  - first:
+      213: 6436946843796743144
+    second: TortugaLeaving-4
+  - first:
+      213: 8615200103774740670
+    second: BasureroPlastico-1
+  - first:
+      213: -6787663568026241528
+    second: BasureroPlastico-2
+  - first:
+      213: -4799278952376042523
+    second: BasureroVidrio-1
+  - first:
+      213: -931608648327343754
+    second: Barco-5
+  - first:
+      213: -5585830424690883982
+    second: Tomate-1
+  - first:
+      213: 5527570746372208081
+    second: Tomate-2
+  - first:
+      213: 6080730996716088104
+    second: Tomate-3
+  - first:
+      213: 2884886109788142647
+    second: BasureroVidrio-2
+  - first:
+      213: 6358082130834363285
+    second: BasureroPapel-1
+  - first:
+      213: -451184859539778159
+    second: BasureroPapel-2
+  - first:
+      213: -7306241917957308231
+    second: Isla-1
+  - first:
+      213: -9221662359979238166
+    second: Isla-2
+  - first:
+      213: -7242597887470077422
+    second: Mais-1
+  - first:
+      213: 2305080012158030020
+    second: Mais-2
+  - first:
+      213: 614935225152738956
+    second: Mais-3
+  - first:
+      213: 6544622685867020484
+    second: Tomate-4
+  - first:
+      213: 9028731783729236523
+    second: TomateDead
+  - first:
+      213: -4882079870556745826
+    second: BasureroEnvaces-1
+  - first:
+      213: 6923637686474345794
+    second: BasureroEnvaces-2
+  - first:
+      213: 4252397535684192092
+    second: BasureroAluminio-1
+  - first:
+      213: -8484789906913796981
+    second: Mais-4
+  - first:
+      213: -1507932454646610934
+    second: Mais-5
+  - first:
+      213: 3922777100398588040
+    second: Mais-6
+  - first:
+      213: 5500493601113247767
+    second: Chile-1
+  - first:
+      213: 8682906294324838785
+    second: Chile-2
+  - first:
+      213: 4560745466616248517
+    second: Chile-3
+  - first:
+      213: 301590319327468226
+    second: Isla-3
+  - first:
+      213: -8661693994382758081
+    second: Mais-7
+  - first:
+      213: 5353624207128892485
+    second: BasureroAluminio-2
+  - first:
+      213: 9212092692956060921
+    second: MaisMazorca-2
+  - first:
+      213: -7656793266843952343
+    second: MaisDead
+  - first:
+      213: -9166719293332691204
+    second: Chile-4
+  - first:
+      213: -5789993137279494760
+    second: Chile-5
+  - first:
+      213: -2895941954641949475
+    second: Chile-6
+  - first:
+      213: 4223671589948203486
+    second: ChileDead-1
+  - first:
+      213: -5247284670261061334
+    second: ChileDead-2
+  - first:
+      213: -7916226533288359394
+    second: Chile
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marco
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 6799
+        width: 1929
+        height: 1090
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06541930fb9e496d0800000000000000
+      internalID: -2984503646431918752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoClasificacion
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 6834
+        width: 1089
+        height: 1089
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4402e8dcae9378370800000000000000
+      internalID: 8324686116851425348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoMar
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 7088
+        width: 711
+        height: 711
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d71755b95c356d0800000000000000
+      internalID: -3002839255581885050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FondoHuerta
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 5568
+        width: 1090
+        height: 1090
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839d8cd9d7a46e540800000000000000
+      internalID: 5036795136639031608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma-1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 6393
+        width: 500
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d723254d76577d0800000000000000
+      internalID: -2921314621670130423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-1
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 6482
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a09f98ee5085f820800000000000000
+      internalID: 2951406275929280678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-2
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 6486
+        width: 113
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402f1ef37124d000800000000000000
+      internalID: 59709477131067465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-3
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6486
+        width: 117
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3630ca440d9aa7fb0800000000000000
+      internalID: -4649216953336200349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-1
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 6502
+        width: 137
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b0b399fcacdcbd0800000000000000
+      internalID: -2608205616199824597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-2
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 6506
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb76e06d624edc30800000000000000
+      internalID: 4386016124650028013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-3
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 6502
+        width: 137
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7177363a99c11e0800000000000000
+      internalID: -2225735188800399412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-4
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 6502
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63205eaf62cfc780800000000000000
+      internalID: -8660489773488528532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-5
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 6506
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73e05313ce073540800000000000000
+      internalID: 4987471343341593466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-1
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 6495
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af44c710388b9a430800000000000000
+      internalID: 3794767033841501434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-2
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 6471
+        width: 78
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edd307b089f33d10800000000000000
+      internalID: 2104299782133767653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-3
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 6510
+        width: 113
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594faf7bb3d4a3d40800000000000000
+      internalID: 5564845208454755477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-4
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 6350
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ab55a58b5aedd50800000000000000
+      internalID: 6764025901565196931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-5
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 6350
+        width: 117
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbf26045f92ed970800000000000000
+      internalID: 8781502456743001015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-6
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6354
+        width: 117
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fd8ba67ec651a10800000000000000
+      internalID: 1879528160680795931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-6
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 6381
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4616d281d7813660800000000000000
+      internalID: 7363816199640454732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-7
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 6381
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcb91c2d4d96a100800000000000000
+      internalID: 118955394949823737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-8
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 6369
+        width: 73
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e445e05dc222c90d0800000000000000
+      internalID: -3414816841505287090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoAluminio-9
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 6365
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f80b2fc29208550800000000000000
+      internalID: 6160969563269795630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoOrganico-1
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 6365
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b9ff27a8d7d6c0800000000000000
+      internalID: -4118585121630997885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-4
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 6389
+        width: 113
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ccedfa4bf5132b0800000000000000
+      internalID: -5606594831450190775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-5
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 6381
+        width: 109
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023c400433c66cb40800000000000000
+      internalID: 5460170565606490912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-6
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 6377
+        width: 129
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ee4d04b69ee900800000000000000
+      internalID: 715675090860040534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma-2
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 6119
+        width: 500
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66e7cf96e81c0b0800000000000000
+      internalID: -5710126266670225707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-7
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 6209
+        width: 119
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2008f5e79a22610800000000000000
+      internalID: 1595023578275775204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-8
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 6209
+        width: 117
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1866ebd727cc3ebd0800000000000000
+      internalID: -2602011367582046591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-9
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 6202
+        width: 121
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a4ec13333b5e9a0800000000000000
+      internalID: -6204355879172683112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoOrganico-2
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6264
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17069cdab0bd43e50800000000000000
+      internalID: 6788291381560959089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoOrganico-3
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 6229
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d6d01b1547dc00800000000000000
+      internalID: 925284230996875626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoOrganico-4
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 6275
+        width: 88
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17daf78add64fb1e0800000000000000
+      internalID: -2179945776795374223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoVidrio-1
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 6236
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798f1bfe218f6b8a0800000000000000
+      internalID: -6289567069361801065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoVidrio-2
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 6236
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b39875fbf5a6910800000000000000
+      internalID: 1831381473891531600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-7
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 6260
+        width: 106
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd0651f3ebedae90800000000000000
+      internalID: -7012689680506942019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-8
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 6264
+        width: 117
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5fad0b4db0080a0800000000000000
+      internalID: -6881487222494005846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-9
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 6244
+        width: 125
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042b8c0c2b3cb8fe0800000000000000
+      internalID: -1185638904376020416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoVidrio-3
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 6115
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca0a0886dd551650800000000000000
+      internalID: 6202967237759470286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoVidrio-4
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 6115
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e27a47976c8ec70800000000000000
+      internalID: 9000662080250392122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoVidrio-5
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 6111
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3dc4bee3dc93370800000000000000
+      internalID: 8302893058153567216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoPapel-1
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 6115
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9a18698f35f890800000000000000
+      internalID: -7424958551260750855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoEnvaces-3
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 5979
+        width: 136
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f818a2f0f824610800000000000000
+      internalID: 1604001712597733242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-10
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 6139
+        width: 97
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eaa86f377904490800000000000000
+      internalID: -7764039233273418136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-11
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 6033
+        width: 156
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f0adf956d48060800000000000000
+      internalID: 6954919406562505694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma-3
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 5842
+        width: 500
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5f8b83f31cc8ce0800000000000000
+      internalID: -1401532906740320793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-1
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 6033
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207b2135563704a0800000000000000
+      internalID: -6627268587127345110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-2
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 6033
+        width: 110
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcda0d6de9ca1cbf0800000000000000
+      internalID: -305773501475672625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoPapel-3
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 5986
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151d3a033f7963170800000000000000
+      internalID: 8157874845777121617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoEnvaces-5
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 5839
+        width: 102
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696fe8e6ad6ab0d50800000000000000
+      internalID: 6704635927359059606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoPapel-4
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 6002
+        width: 102
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e46ae228faa566e0800000000000000
+      internalID: -1844880489623952155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoEnvaces-2
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 5979
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd04cf96dbcdaf820800000000000000
+      internalID: 2952915211779850459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-3
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 5908
+        width: 113
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be1b5631957fee80800000000000000
+      internalID: -8147163934347288909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-4
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 5904
+        width: 113
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6bf796f9c346f0800000000000000
+      internalID: -701495055990690684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoEnvaces-4
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 5850
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89836ec9662a3640800000000000000
+      internalID: 5060399367180224907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechosMar-12
+      rect:
+        serializedVersion: 2
+        x: 3467
+        y: 5768
+        width: 156
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b9eea7f4e986710800000000000000
+      internalID: 1686772124652313348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 5783
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc5e9e598529ce30800000000000000
+      internalID: 4524188572598557941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraPlataforma-1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 5698
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465e2b35b088ff950800000000000000
+      internalID: 6485051570667054436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasuraPlataforma-2
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 5689
+        width: 136
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c08b17f2a34c680800000000000000
+      internalID: -8735793401746158581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huerto-1
+      rect:
+        serializedVersion: 2
+        x: 2475
+        y: 5576
+        width: 589
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6956f4a4969c250800000000000000
+      internalID: 5965414949309486834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huerto-3
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 5537
+        width: 121
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4303be886654340800000000000000
+      internalID: 4847393312181597357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Huerto-2
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 5448
+        width: 1089
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa76eb1429fed6680800000000000000
+      internalID: -8760082288718485585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoEnvaces-1
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 5977
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2dde1e009061fd0800000000000000
+      internalID: -2371698254368877847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DesechoPapel-2
+      rect:
+        serializedVersion: 2
+        x: 2973
+        y: 6094
+        width: 144
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd579db82dca97e0800000000000000
+      internalID: -1757867129671557707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinIdle-1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5072
+        width: 448
+        height: 348
+      alignment: 9
+      pivot: {x: 0.4195973, y: 0.12989825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4af7eef2054820800000000000000
+      internalID: 2901728828747042770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinIdle-2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 5074
+        width: 448
+        height: 348
+      alignment: 9
+      pivot: {x: 0.45467773, y: 0.19090815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa8c411dc83761680800000000000000
+      internalID: -8784706974499157841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinIdle-3
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 5088
+        width: 448
+        height: 348
+      alignment: 9
+      pivot: {x: 0.42243576, y: 0.1711973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c02b7c355be140800000000000000
+      internalID: 4749983950244463660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas_Eco Adventure_80
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 4885
+        width: 261
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450b7a79dd695980800000000000000
+      internalID: -8549681636755962552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotHappy-1
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 4900
+        width: 482
+        height: 460
+      alignment: 9
+      pivot: {x: 0.40934432, y: 0.31595406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b80c7059afe8d40800000000000000
+      internalID: 5588679705600494417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotHappy-2
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 4900
+        width: 482
+        height: 460
+      alignment: 9
+      pivot: {x: 0.41500968, y: 0.3100172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba28730d599bdb00800000000000000
+      internalID: 854445179086056117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotHappy-3
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 4900
+        width: 482
+        height: 460
+      alignment: 9
+      pivot: {x: 0.42067608, y: 0.31595406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a94a5b70c5c42f0800000000000000
+      internalID: -987313030118991353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinHappy-2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4580
+        width: 391
+        height: 330
+      alignment: 9
+      pivot: {x: 0.47848254, y: 0.15581647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb19508b3d8c15a0800000000000000
+      internalID: -6549204471407633436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinHappy-3
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4580
+        width: 391
+        height: 330
+      alignment: 9
+      pivot: {x: 0.47489628, y: 0.16431552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d70bb9bbc65a7010800000000000000
+      internalID: 1187356884759939026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinHappy-1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4572
+        width: 391
+        height: 349
+      alignment: 9
+      pivot: {x: 0.47489604, y: 0.15848294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3f7f68ea3eb4ee0800000000000000
+      internalID: -1275675730701192237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotHappy-4
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 4399
+        width: 482
+        height: 460
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.31595406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3ddd2eec789d150800000000000000
+      internalID: 5897894509657576429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotSad-1
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 4389
+        width: 391
+        height: 363
+      alignment: 9
+      pivot: {x: 0.49301422, y: 0.40219444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91d6140121f631e0800000000000000
+      internalID: -2218320642328571494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotSad-2
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 4389
+        width: 402
+        height: 359
+      alignment: 9
+      pivot: {x: 0.50679284, y: 0.39349756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da3aeca173787ab0800000000000000
+      internalID: -5010127653380146476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotSad-3
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 4389
+        width: 399
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5136878, y: 0.39349756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2e924aebc580a0800000000000000
+      internalID: -6879868648738115760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinHappy-4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4088
+        width: 391
+        height: 312
+      alignment: 9
+      pivot: {x: 0.47469094, y: 0.17376396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5fc4f86a882ccc0800000000000000
+      internalID: -3692238495540251153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinSad-2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 4096
+        width: 391
+        height: 300
+      alignment: 9
+      pivot: {x: 0.47830644, y: 0.1795638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d9e4086cd8f0bf0800000000000000
+      internalID: -355909961843303135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinSad-1
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 4072
+        width: 391
+        height: 346
+      alignment: 9
+      pivot: {x: 0.48192203, y: 0.16087879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7170172c2b00db50800000000000000
+      internalID: 6615800136869114236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotSad-4
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 3900
+        width: 331
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50584537, y: 0.4065635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fe50396afbc6090800000000000000
+      internalID: -8039840512611061875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotIdle-1
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 3885
+        width: 261
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5593009, y: 0.3652459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a4f7ef57307ab0800000000000000
+      internalID: -5012445500210370536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotIdle-2
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 3885
+        width: 261
+        height: 402
+      alignment: 9
+      pivot: {x: 0.46293738, y: 0.3652459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1575f8d13cd4b80800000000000000
+      internalID: -8408850397504515643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotIdle-3
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 3885
+        width: 261
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5741271, y: 0.36043295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3185b48c3db0106f0800000000000000
+      internalID: -720281461176182765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinSad-3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3596
+        width: 391
+        height: 313
+      alignment: 9
+      pivot: {x: 0.47469094, y: 0.17029004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2ada1b7f511dc80800000000000000
+      internalID: -8299828484685061442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinSad-4
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 3596
+        width: 391
+        height: 313
+      alignment: 9
+      pivot: {x: 0.47107527, y: 0.1702916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d2390817e98bbd0800000000000000
+      internalID: -2614165373362950845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasurinSad-5
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3611
+        width: 391
+        height: 313
+      alignment: 9
+      pivot: {x: 0.47107527, y: 0.14770742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb740df91a8516c50800000000000000
+      internalID: 6656699175424509884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotIdle-4
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 3383
+        width: 282
+        height: 411
+      alignment: 9
+      pivot: {x: 0.46569693, y: 0.3540746}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2bed65d5c4be1c0800000000000000
+      internalID: -4473397841089350966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-Bot-1
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 3416
+        width: 230
+        height: 371
+      alignment: 9
+      pivot: {x: 0.5168234, y: 0.38527498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77222079aa28f4d80800000000000000
+      internalID: -8264243122012020105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Eco-BotSad-
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 3400
+        width: 242
+        height: 368
+      alignment: 9
+      pivot: {x: 0.5399735, y: 0.40011132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4149da5f8735e67c0800000000000000
+      internalID: -4076228833740745708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Atlas_Eco Adventure_130
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 3400
+        width: 273
+        height: 360
+      alignment: 9
+      pivot: {x: 0.57086784, y: 0.38714328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b49fd236184ba960800000000000000
+      internalID: 7614258855179949238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube-1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3368
+        width: 219
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821447f3b6d44720800000000000000
+      internalID: 2829622534331437710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube-2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3354
+        width: 277
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6541b5fce690e0800000000000000
+      internalID: -2263361222721835056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-1
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 3186
+        width: 144
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb7c4f34dd337140800000000000000
+      internalID: 4716181216591379425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-2
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 3104
+        width: 144
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3c0193e4f21460800000000000000
+      internalID: 7211095211601836642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaMusica-1
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 3170
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a362de769794600800000000000000
+      internalID: 453026724794743318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaMusica-2
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 3170
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ec46c56f37e2760800000000000000
+      internalID: 7435007536784526996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaAbono-1
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 3131
+        width: 133
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24670d243029d20800000000000000
+      internalID: 3283690663806649048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaAbono-2
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 3088
+        width: 133
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e83d05811d16110800000000000000
+      internalID: 1252512073751170592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaRegadera-1
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 3146
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8c22ae72be94030800000000000000
+      internalID: 3479570743784818850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaRegadera-2
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 3146
+        width: 187
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3211d5a8d40bc2810800000000000000
+      internalID: 1741961002965864739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-1
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3209
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0a3a9d672ae2c60800000000000000
+      internalID: 7795346636366127281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-2
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 3213
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6e17d96ae55a60800000000000000
+      internalID: 7662288081342327736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-3
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 3209
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c832c5dd0dc22b0800000000000000
+      internalID: -5607877786830926692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Petroleo
+      rect:
+        serializedVersion: 2
+        x: 3651
+        y: 3119
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e651d4dd61dbfa4b0800000000000000
+      internalID: -5426911120058411666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-3
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2803
+        width: 144
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9439c7fe41970db60800000000000000
+      internalID: 7768842488038331209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-4
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2803
+        width: 144
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc310e5a11b2022b0800000000000000
+      internalID: -5611437780906273841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-4
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3076
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc5893e994fe6140800000000000000
+      internalID: 4714974801689074884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-5
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 3080
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535724cd9bd37dc10800000000000000
+      internalID: 2078197621528360245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-6
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 3084
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a65fee8aecc49450800000000000000
+      internalID: 6094721503531587240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nubes-3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 2873
+        width: 156
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9870b4c657278790800000000000000
+      internalID: -7528004998505924451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mar-2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2963
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44fdb078c3cec190800000000000000
+      internalID: -7940193827355233201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaMusica-3
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 2971
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ea591d9497df2d0800000000000000
+      internalID: -3243302798681067940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaMusica-4
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 2971
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a38437776cffaa0800000000000000
+      internalID: -6124958751863064023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaAbono-3
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 2877
+        width: 133
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abcce17c95830040800000000000000
+      internalID: 4612677350330256290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaAbono-4
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 2881
+        width: 133
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f84e601c7f3e750800000000000000
+      internalID: 6333177909429440379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaRegadera-3
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 2947
+        width: 195
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e496c61e385c250800000000000000
+      internalID: 5964318285731810935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HuertaRegadera-4
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 2944
+        width: 195
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec5a916eaf1dbf80800000000000000
+      internalID: -8089274521865265942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-7
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2955
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc9323396efd6e0800000000000000
+      internalID: -1810475005302420262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortugaLeaving-1
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 2959
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff94ac0aa0980ca0800000000000000
+      internalID: -6050427039341305857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortugaLeaving-2
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 2963
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcbb3ec92260d170800000000000000
+      internalID: 8201162853134875892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortugaLeaving-3
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 2842
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55316a93def5e9d00800000000000000
+      internalID: 981327241292419925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TortugaLeaving-4
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 2846
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a39ecc01a45950800000000000000
+      internalID: 6436946843796743144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroPlastico-1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2342
+        width: 239
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e66e59d65f8770800000000000000
+      internalID: 8615200103774740670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroPlastico-2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2342
+        width: 240
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067fec82ff5dc1a0800000000000000
+      internalID: -6787663568026241528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroVidrio-1
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2342
+        width: 242
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebfd917839856db0800000000000000
+      internalID: -4799278952376042523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-5
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 2506
+        width: 144
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67154c6ced24213f0800000000000000
+      internalID: -931608648327343754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomate-1
+      rect:
+        serializedVersion: 2
+        x: 3221
+        y: 2464
+        width: 144
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2720bb0e2d42b72b0800000000000000
+      internalID: -5585830424690883982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomate-2
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 2464
+        width: 183
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d53b58be40e5bc40800000000000000
+      internalID: 5527570746372208081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomate-3
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2464
+        width: 184
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b28f9df98136450800000000000000
+      internalID: 6080730996716088104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroVidrio-2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2018
+        width: 239
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c716fc1ac290820800000000000000
+      internalID: 2884886109788142647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroPapel-1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2018
+        width: 238
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593142de2027c3850800000000000000
+      internalID: 6358082130834363285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroPapel-2
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2018
+        width: 242
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195d81fb2c11db9f0800000000000000
+      internalID: -451184859539778159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isla-1
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 2076
+        width: 319
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0061d8fa30b9a90800000000000000
+      internalID: -7306241917957308231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isla-2
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 2037
+        width: 332
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd8da21f2160080800000000000000
+      internalID: -9221662359979238166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mais-1
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2256
+        width: 89
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af952289f1d7b90800000000000000
+      internalID: -7242597887470077422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mais-2
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 2256
+        width: 89
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c05887ee0a4dff10800000000000000
+      internalID: 2305080012158030020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mais-3
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 2256
+        width: 98
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c869a174450b88800800000000000000
+      internalID: 614935225152738956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tomate-4
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 2131
+        width: 187
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0111c68ab23da50800000000000000
+      internalID: 6544622685867020484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TomateDead
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 2135
+        width: 94
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ac57598bf7c4d70800000000000000
+      internalID: 9028731783729236523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroEnvaces-1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1693
+        width: 239
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f416e593e5f3cb0800000000000000
+      internalID: -4882079870556745826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroEnvaces-2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1693
+        width: 238
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d8fc7fac3b51060800000000000000
+      internalID: 6923637686474345794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroAluminio-1
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1693
+        width: 242
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57e33e470d830b30800000000000000
+      internalID: 4252397535684192092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mais-4
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1936
+        width: 105
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5594b888ff3a80800000000000000
+      internalID: -8484789906913796981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mais-5
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 1936
+        width: 105
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04818ffb6fb21be0800000000000000
+      internalID: -1507932454646610934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mais-6
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 1936
+        width: 109
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8807b423df0807630800000000000000
+      internalID: 3922777100398588040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chile-1
+      rect:
+        serializedVersion: 2
+        x: 3186
+        y: 1818
+        width: 175
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7101aaf89cda55c40800000000000000
+      internalID: 5500493601113247767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chile-2
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 1811
+        width: 195
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1814c3b4541ef7870800000000000000
+      internalID: 8682906294324838785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chile-3
+      rect:
+        serializedVersion: 2
+        x: 3670
+        y: 1787
+        width: 230
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c872a886d50b4f30800000000000000
+      internalID: 4560745466616248517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isla-3
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1670
+        width: 332
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad53b2cc67f2400800000000000000
+      internalID: 301590319327468226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mais-7
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 1615
+        width: 109
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f6ea7243b7bc780800000000000000
+      internalID: -8661693994382758081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroAluminio-2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1369
+        width: 239
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54499d60ad4eb4a40800000000000000
+      internalID: 5353624207128892485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaisMazorca-2
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1654
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc1e991f7de7df70800000000000000
+      internalID: 9212092692956060921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MaisDead
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1615
+        width: 109
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd92b571b9db590800000000000000
+      internalID: -7656793266843952343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chile-4
+      rect:
+        serializedVersion: 2
+        x: 3182
+        y: 1525
+        width: 222
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf66f2dbe5549c080800000000000000
+      internalID: -9166719293332691204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chile-5
+      rect:
+        serializedVersion: 2
+        x: 3436
+        y: 1525
+        width: 224
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89591881befc5afa0800000000000000
+      internalID: -5789993137279494760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chile-6
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1525
+        width: 223
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc8a67b22c8fc7d0800000000000000
+      internalID: -2895941954641949475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChileDead-1
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 1307
+        width: 67
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1a5cedeee7d9a30800000000000000
+      internalID: 4223671589948203486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChileDead-2
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 1307
+        width: 148
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a299cb9c466ed27b0800000000000000
+      internalID: -5247284670261061334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chile
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 1385
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a43d1f8e9e32290800000000000000
+      internalID: -7916226533288359394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
