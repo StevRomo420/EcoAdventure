@@ -9,6 +9,11 @@ TagManager:
   - B_Papel
   - B_Organico
   - B_Vidrio
+  - Aluminio
+  - Envases
+  - Papel
+  - Organico
+  - Vidrio
   layers:
   - Default
   - TransparentFX
