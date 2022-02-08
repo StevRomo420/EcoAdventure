@@ -1,0 +1,2088 @@
+fileFormatVersion: 2
+guid: 4bd31b5eeb73bef4aa46ebffbc63eba5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4585124224268644244
+    second: EcoBot_Happy-2
+  - first:
+      213: 1321557146020412879
+    second: EcoBot_Happy-3
+  - first:
+      213: 9184154819471312950
+    second: EcoBot_Happy-4
+  - first:
+      213: -8089786966440293666
+    second: BasureroOrg-1
+  - first:
+      213: -6998335329681712983
+    second: BasureroOrg-2
+  - first:
+      213: -2108509362341821305
+    second: BasureroVidr-1
+  - first:
+      213: 7148261293770276215
+    second: BasureroVidr-2
+  - first:
+      213: 2701233240582776956
+    second: BasureroPap-1
+  - first:
+      213: 566374018885375948
+    second: BasureroPap-2
+  - first:
+      213: -1240137868483360420
+    second: EcoBot_Happy-5
+  - first:
+      213: -5779182229014830701
+    second: EcoBot_Sad-1
+  - first:
+      213: -7385846551836044462
+    second: EcoBot_Sad-2
+  - first:
+      213: 7828924927271176845
+    second: EcoBot_Sad-3
+  - first:
+      213: 5873555631602504460
+    second: BasureroEnv-1
+  - first:
+      213: -6396479587701166870
+    second: BasureroEnv-2
+  - first:
+      213: -8992525230651662224
+    second: BasureroAlu-1
+  - first:
+      213: 1323644967772121995
+    second: EcoBot_Sad-4
+  - first:
+      213: -2488639296915764050
+    second: EcoBot_Idle-1
+  - first:
+      213: 8133547753268912705
+    second: EcoBot_Happy-1
+  - first:
+      213: -1177131361741507924
+    second: SA#1_31
+  - first:
+      213: -5555260811572096999
+    second: BasureroAlu-2
+  - first:
+      213: -4278274903730501064
+    second: EcoBot_Idle-2
+  - first:
+      213: 8130158399102312599
+    second: EcoBot1
+  - first:
+      213: 65904815454076517
+    second: EcoBot2
+  - first:
+      213: 2417011363238105465
+    second: EcoBot3
+  - first:
+      213: -122488408909522450
+    second: Boton-1
+  - first:
+      213: -1523030202347851113
+    second: Boton-2
+  - first:
+      213: 7693646634533163728
+    second: Boton-3
+  - first:
+      213: -7976289369404290623
+    second: Boton-4
+  - first:
+      213: 7376483617543711402
+    second: Boton-5
+  - first:
+      213: -4426983774617491217
+    second: Boton-6
+  - first:
+      213: -2507141303412948246
+    second: Boton-7
+  - first:
+      213: -7047437991836433246
+    second: Boton-8
+  - first:
+      213: -8220797446706638370
+    second: Boton-9
+  - first:
+      213: 2468781121035748434
+    second: Basurin_Idle-1
+  - first:
+      213: 8363129871671319910
+    second: Basurin_Idle-2
+  - first:
+      213: -7338245204016023115
+    second: Basurin_Idle-3
+  - first:
+      213: 4344025562323112380
+    second: Aluminio-1
+  - first:
+      213: -1707352339844661409
+    second: Aluminio-2
+  - first:
+      213: 4442018873502221859
+    second: Aluminio-3
+  - first:
+      213: 3037978825617387203
+    second: Aluminio-4
+  - first:
+      213: -3605567681203988352
+    second: Aluminio-5
+  - first:
+      213: 1920052969478986656
+    second: Basurin_Happy-3
+  - first:
+      213: -8635267092528692610
+    second: Organico-1
+  - first:
+      213: -8332726363263660423
+    second: Basurin_Happy-1
+  - first:
+      213: -8970688983281785855
+    second: Basurin_Happy-2
+  - first:
+      213: -9073322733333711957
+    second: Aluminio-6
+  - first:
+      213: -5631621153500045462
+    second: Aluminio-7
+  - first:
+      213: -1813370296544302889
+    second: Aluminio-8
+  - first:
+      213: 7031540092432464439
+    second: Aluminio-9
+  - first:
+      213: 6784214536981519014
+    second: Organico-3
+  - first:
+      213: 549412573693533588
+    second: Vidrio-1
+  - first:
+      213: -961622213760611259
+    second: Vidrio-2
+  - first:
+      213: -7912385621845347337
+    second: Organico-2
+  - first:
+      213: -2372825600378578606
+    second: Organico-4
+  - first:
+      213: -740862131406398454
+    second: Basurin_Happy-4
+  - first:
+      213: -488694102065906097
+    second: Basurin_Sad-2
+  - first:
+      213: -4153031504743791857
+    second: Vidrio-3
+  - first:
+      213: 7397057707902209640
+    second: Vidrio-4
+  - first:
+      213: -6067650883092285721
+    second: Vidrio-5
+  - first:
+      213: -9100309428339041321
+    second: Papel-1
+  - first:
+      213: -6691044857220402745
+    second: Papel-2
+  - first:
+      213: 2122616269316394187
+    second: Basurin_Sad-1
+  - first:
+      213: -1932474798699580901
+    second: Papel-3
+  - first:
+      213: -3927125363281604739
+    second: Envases-1
+  - first:
+      213: 6947713538558112386
+    second: Papel-4
+  - first:
+      213: 8791877428639188313
+    second: Envases-2
+  - first:
+      213: 4960953509960059815
+    second: Envases-3
+  - first:
+      213: -8227847082464703001
+    second: Envases-4
+  - first:
+      213: -817014320325565868
+    second: Envases-5
+  - first:
+      213: -4916563291132762357
+    second: Basurin_Sad-3
+  - first:
+      213: -2999917237146762675
+    second: Plataforma-1
+  - first:
+      213: 8169278051058401227
+    second: Basurin_Sad-4
+  - first:
+      213: -8899978410366643603
+    second: Basurin_Sad-5
+  - first:
+      213: -5251349826726851773
+    second: Fondo
+  - first:
+      213: 390464263926465383
+    second: Nube-1
+  - first:
+      213: -4901217292099731279
+    second: Nube-2
+  - first:
+      213: 4543702105401428448
+    second: Plataforma-2
+  - first:
+      213: 2871312544222635587
+    second: Nube-3
+  - first:
+      213: -7935088973423441843
+    second: Plataforma-3
+  - first:
+      213: -5253709068903765494
+    second: Plataforma_Elem-1
+  - first:
+      213: 895887176623497929
+    second: Plataforma_Elem-2
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EcoBot_Happy-2
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 5823
+        width: 550
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f229e5032a1af30800000000000000
+      internalID: 4585124224268644244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Happy-3
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 5819
+        width: 576
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdfceee83d175210800000000000000
+      internalID: 1321557146020412879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Happy-4
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 5819
+        width: 566
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63887c8062ca47f70800000000000000
+      internalID: 9184154819471312950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroOrg-1
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 5911
+        width: 382
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edacdb49d9d4bbf80800000000000000
+      internalID: -8089786966440293666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroOrg-2
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 6362
+        width: 369
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8514fa81be0ee90800000000000000
+      internalID: -6998335329681712983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroVidr-1
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 5911
+        width: 382
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784c70408e11db2e0800000000000000
+      internalID: -2108509362341821305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroVidr-2
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 5835
+        width: 370
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df9d806c9b33360800000000000000
+      internalID: 7148261293770276215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroPap-1
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 5386
+        width: 382
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78e9601255bc7520800000000000000
+      internalID: 2701233240582776956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroPap-2
+      rect:
+        serializedVersion: 2
+        x: 4085
+        y: 5835
+        width: 366
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc75cad5b2a2cd700800000000000000
+      internalID: 566374018885375948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Happy-5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 5096
+        width: 662
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590a8cdd252acee0800000000000000
+      internalID: -1240137868483360420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Sad-1
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 5153
+        width: 540
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3912253d1683ccfa0800000000000000
+      internalID: -5779182229014830701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Sad-2
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 5156
+        width: 559
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d44861b3308990800000000000000
+      internalID: -7385846551836044462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Sad-3
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 5156
+        width: 556
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a033fedbde5ac60800000000000000
+      internalID: 7828924927271176845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroEnv-1
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4859
+        width: 382
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03992e3abf038150800000000000000
+      internalID: 5873555631602504460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroEnv-2
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 5311
+        width: 369
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aece80a74b32b37a0800000000000000
+      internalID: -6396479587701166870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroAlu-1
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 4859
+        width: 382
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070254972f1243380800000000000000
+      internalID: -8992525230651662224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Sad-4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 4461
+        width: 455
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b6ac0d5188e5210800000000000000
+      internalID: 1323644967772121995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Idle-1
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 4426
+        width: 366
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac024daeb3967dd0800000000000000
+      internalID: -2488639296915764050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Happy-1
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 4420
+        width: 345
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1422545969a20e070800000000000000
+      internalID: 8133547753268912705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA#1_31
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 4834
+        width: 284
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2fc61634df9afe0800000000000000
+      internalID: -1177131361741507924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BasureroAlu-2
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 4786
+        width: 370
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910d89399bfb7e2b0800000000000000
+      internalID: -5555260811572096999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot_Idle-2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3725
+        width: 360
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83accaf64a380a4c0800000000000000
+      internalID: -4278274903730501064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot1
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3744
+        width: 316
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e6221dff14d070800000000000000
+      internalID: 8130158399102312599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot2
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 3738
+        width: 334
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56eb02a94142ae000800000000000000
+      internalID: 65904815454076517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EcoBot3
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 3738
+        width: 378
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971d3eb6703fa8120800000000000000
+      internalID: 2417011363238105465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-1
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 4180
+        width: 275
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee958d9e075dc4ef0800000000000000
+      internalID: -122488408909522450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-2
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 4189
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7927ddea91c1ddae0800000000000000
+      internalID: -1523030202347851113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-3
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 4189
+        width: 247
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d29ab6f9d255ca60800000000000000
+      internalID: 7693646634533163728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-4
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 3829
+        width: 240
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9cee624178e4190800000000000000
+      internalID: -7976289369404290623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-5
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3826
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa6e2394c88e5660800000000000000
+      internalID: 7376483617543711402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-6
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 3833
+        width: 247
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a18f46b13092c0800000000000000
+      internalID: -4426983774617491217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-7
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 3460
+        width: 246
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28c589448d43dd0800000000000000
+      internalID: -2507141303412948246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-8
+      rect:
+        serializedVersion: 2
+        x: 3573
+        y: 3466
+        width: 246
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a44fff3c78723e90800000000000000
+      internalID: -7047437991836433246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boton-9
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 3451
+        width: 256
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1dc92274cd9ed80800000000000000
+      internalID: -8220797446706638370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Idle-1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3182
+        width: 582
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c683795fd24220800000000000000
+      internalID: 2468781121035748434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Idle-2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 3217
+        width: 563
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d5d6bfe4ecf0470800000000000000
+      internalID: 8363129871671319910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Idle-3
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 3207
+        width: 565
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b939ebddd0592a90800000000000000
+      internalID: -7338245204016023115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-1
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 2989
+        width: 338
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15c79bb34194c30800000000000000
+      internalID: 4344025562323112380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-2
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 2999
+        width: 142
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f7025c7144e48e0800000000000000
+      internalID: -1707352339844661409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-3
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 2989
+        width: 335
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3264ea071a835ad30800000000000000
+      internalID: 4442018873502221859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-4
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 2989
+        width: 145
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce251065a1192a20800000000000000
+      internalID: 3037978825617387203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-5
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 3005
+        width: 170
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088153c0c4376fdc0800000000000000
+      internalID: -3605567681203988352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Happy-3
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 2494
+        width: 546
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab9abbb00665aa10800000000000000
+      internalID: 1920052969478986656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Organico-1
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 2642
+        width: 161
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e720539b45e592880800000000000000
+      internalID: -8635267092528692610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Happy-1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2481
+        width: 555
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e032375853c5c80800000000000000
+      internalID: -8332726363263660423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Happy-2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2494
+        width: 554
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104aaf006e5b18380800000000000000
+      internalID: -8970688983281785855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-6
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 2677
+        width: 174
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3fa2beb05151280800000000000000
+      internalID: -9073322733333711957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-7
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 2677
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fdd04066678d1b0800000000000000
+      internalID: -5631621153500045462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-8
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2645
+        width: 167
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d86b3ca25d95d6e0800000000000000
+      internalID: -1813370296544302889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluminio-9
+      rect:
+        serializedVersion: 2
+        x: 3501
+        y: 2642
+        width: 170
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aba59957c059160800000000000000
+      internalID: 7031540092432464439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Organico-3
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 2293
+        width: 275
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa13d45d2f562e50800000000000000
+      internalID: 6784214536981519014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vidrio-1
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 2313
+        width: 122
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49dd22a23d7ef9700800000000000000
+      internalID: 549412573693533588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vidrio-2
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 2313
+        width: 120
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c8ca401b1a7a2f0800000000000000
+      internalID: -961622213760611259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Organico-2
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2380
+        width: 189
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3fff3d23f813290800000000000000
+      internalID: -7912385621845347337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Organico-4
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 2405
+        width: 235
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595b7f20b7021fd0800000000000000
+      internalID: -2372825600378578606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Happy-4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1805
+        width: 546
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9bf511dde7b5f0800000000000000
+      internalID: -740862131406398454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Sad-2
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1815
+        width: 546
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e788aad4fc739f0800000000000000
+      internalID: -488694102065906097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vidrio-3
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1994
+        width: 151
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f038db2a9d77d56c0800000000000000
+      internalID: -4153031504743791857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vidrio-4
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1994
+        width: 151
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e83964bc0a7a660800000000000000
+      internalID: 7397057707902209640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vidrio-5
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 1991
+        width: 258
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f23c6baf5bcba0800000000000000
+      internalID: -6067650883092285721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papel-1
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 2001
+        width: 158
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db96b95ac435b180800000000000000
+      internalID: -9100309428339041321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papel-2
+      rect:
+        serializedVersion: 2
+        x: 3747
+        y: 1944
+        width: 335
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c17c2d2722a423a0800000000000000
+      internalID: -6691044857220402745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Sad-1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1783
+        width: 548
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc8117304c057d10800000000000000
+      internalID: 2122616269316394187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papel-3
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1666
+        width: 230
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12fd16c8687e25e0800000000000000
+      internalID: -1932474798699580901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envases-1
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1638
+        width: 243
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f4c25f94c0089c0800000000000000
+      internalID: -3927125363281604739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Papel-4
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 1707
+        width: 243
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282bdea17ac3b6060800000000000000
+      internalID: 6947713538558112386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envases-2
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1647
+        width: 161
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95540d2a0f5030a70800000000000000
+      internalID: 8791877428639188313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envases-3
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 1647
+        width: 151
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab856cdee8d8d440800000000000000
+      internalID: 4960953509960059815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envases-4
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 1319
+        width: 170
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed0577eba0d0dd80800000000000000
+      internalID: -8227847082464703001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Envases-5
+      rect:
+        serializedVersion: 2
+        x: 2838
+        y: 1297
+        width: 173
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452669cedc169a4f0800000000000000
+      internalID: -817014320325565868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Sad-3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1116
+        width: 549
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b076e4c5cbbd4cbb0800000000000000
+      internalID: -4916563291132762357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma-1
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 1145
+        width: 679
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42cb44ca272e56d0800000000000000
+      internalID: -2999917237146762675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Sad-4
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1117
+        width: 561
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf3bb0da1b1f5170800000000000000
+      internalID: 8169278051058401227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basurin_Sad-5
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1137
+        width: 563
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6253753accec7480800000000000000
+      internalID: -8899978410366643603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondo
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 11
+        width: 1087
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b03aac7257f17b0800000000000000
+      internalID: -5251349826726851773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube-1
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 943
+        width: 218
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76342d4ed253b6500800000000000000
+      internalID: 390464263926465383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube-2
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 927
+        width: 291
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c46137d06bfbb0800000000000000
+      internalID: -4901217292099731279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma-2
+      rect:
+        serializedVersion: 2
+        x: 3352
+        y: 769
+        width: 679
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e985a5cdf87e0f30800000000000000
+      internalID: 4543702105401428448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nube-3
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 447
+        width: 157
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346638dcb83f8d720800000000000000
+      internalID: 2871312544222635587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma-3
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 396
+        width: 679
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d480afdde96e0e190800000000000000
+      internalID: -7935088973423441843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Elem-1
+      rect:
+        serializedVersion: 2
+        x: 3330
+        y: 201
+        width: 167
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2ebaef631717b0800000000000000
+      internalID: -5253709068903765494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plataforma_Elem-2
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 185
+        width: 177
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a879f3a4de6c00800000000000000
+      internalID: 895887176623497929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
