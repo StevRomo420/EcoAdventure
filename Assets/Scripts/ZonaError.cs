@@ -18,10 +18,11 @@ public class ZonaError : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Aluminio")
+        if (collision == true)
         {
             ClasificacionManager controller = collision.GetComponent<ClasificacionManager>();
             controller.Fallar();
+            Destroy(collision.gameObject);
 
         }
     }

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BasureroAlumino : MonoBehaviour
+public class BasureroEnvases : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,18 +16,19 @@ public class BasureroAlumino : MonoBehaviour
         
     }
 
-
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Aluminio")
+        if (collision.tag == "Envaces")
         {
             ClasificacionManager controller = collision.GetComponent<ClasificacionManager>();
             controller.Ganar();
+            Destroy(collision.gameObject);
         }
         else
         {
             ClasificacionManager controller = collision.GetComponent<ClasificacionManager>();
             controller.Fallar();
+            Destroy(collision.gameObject);
         }
     }
 }
