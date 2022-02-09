@@ -383,7 +383,7 @@ GameObject:
   - component: {fileID: 353505433}
   m_Layer: 0
   m_Name: BasureroOrg-1
-  m_TagString: Untagged
+  m_TagString: B_Organico
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -465,6 +465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30975cf6afbdfc44297a5ae197b0cbf3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  p2: {fileID: 0}
 --- !u!61 &353505434
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -890,7 +891,7 @@ GameObject:
   - component: {fileID: 780309974}
   m_Layer: 0
   m_Name: BasureroAlu-1
-  m_TagString: Untagged
+  m_TagString: B_Aluminio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1024,7 +1025,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 792247346}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.8968225, y: -6.7255697, z: -41.228905}
+  m_LocalPosition: {x: -3.8968225, y: -7.43, z: -41.228905}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 568828237}
@@ -1068,6 +1069,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 76b75bf95bb08ce448769ccc540468fc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  p2: {fileID: 0}
 --- !u!1 &818789084
 GameObject:
   m_ObjectHideFlags: 0
@@ -1082,7 +1084,7 @@ GameObject:
   - component: {fileID: 818789087}
   m_Layer: 0
   m_Name: BasureroEnv-1
-  m_TagString: Untagged
+  m_TagString: B_Envases
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1164,6 +1166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f522ba90de701b54da6743ace9e9935f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  p2: {fileID: 0}
 --- !u!61 &818789088
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1204,7 +1207,7 @@ GameObject:
   - component: {fileID: 830765472}
   m_Layer: 0
   m_Name: BasureroVidr-1
-  m_TagString: Untagged
+  m_TagString: B_Vidrio
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1286,6 +1289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9768077b3aee6bb4d8482ccc3c002584, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  p2: {fileID: 0}
 --- !u!61 &830765473
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1634,7 +1638,7 @@ GameObject:
   - component: {fileID: 1021053749}
   m_Layer: 0
   m_Name: BasureroPap-1
-  m_TagString: Untagged
+  m_TagString: B_Papel
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1716,6 +1720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 904db6226b2f1d143936583c857f9370, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  p2: {fileID: 0}
 --- !u!61 &1021053750
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2094,6 +2099,51 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+--- !u!1 &1544117077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1544117078}
+  - component: {fileID: 1544117079}
+  m_Layer: 0
+  m_Name: Jugador
+  m_TagString: Untagged
+  m_Icon: {fileID: 6519382022992737161, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1544117078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544117077}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -12.05, y: 6.3, z: -146.66946}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1544117079
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1544117077}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1024e92bc04367a4587855760d1fd0e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vida: 0
+  puntos: 0
 --- !u!1 &1775946211
 GameObject:
   m_ObjectHideFlags: 0

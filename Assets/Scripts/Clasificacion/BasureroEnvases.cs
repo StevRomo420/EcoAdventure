@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class BasureroEnvases : MonoBehaviour
 {
+    public Jugador p2;
     // Start is called before the first frame update
     void Start()
     {
-        
+        GameObject prueba = GameObject.Find("Jugador");
+        p2 = prueba.GetComponent<Jugador>();
     }
 
     // Update is called once per frame
@@ -18,16 +20,17 @@ public class BasureroEnvases : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.tag == "Envaces")
+        if (collision.tag == "Envases")
         {
-            ClasificacionManager controller = collision.GetComponent<ClasificacionManager>();
-            controller.Ganar();
+
+            p2.Ganar(100);
+
             Destroy(collision.gameObject);
         }
         else
         {
-            ClasificacionManager controller = collision.GetComponent<ClasificacionManager>();
-            controller.Fallar();
+            p2.Perder(50);
+
             Destroy(collision.gameObject);
         }
     }

@@ -11,7 +11,7 @@ public class ClasificacionManager : MonoBehaviour
 
     public float velocidadDeMovimiento = 2f;
 
-    public int puntos;
+
 
 
  
@@ -58,16 +58,6 @@ public class ClasificacionManager : MonoBehaviour
         {
             basuraRigibodoy.velocity = new Vector2(0, basuraRigibodoy.velocity.y);
         }
-    }
-
-    public void Ganar()
-    {
-        puntos += 1 * 100;
-    }
-
-   public void Fallar()
-    {
-        puntos -= +1 * 50;
     }
 
    
