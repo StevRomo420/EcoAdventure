@@ -33,6 +33,17 @@ public class Jugador : MonoBehaviour
     public void Perder(int puntosObtenidos)
     {
         this.puntos -= puntosObtenidos;
+        this.vida = vida - 1;
+    }
+
+    public int totalDePuntos()
+    {
+        return puntos;
+    }
+
+    public int vidaRestante()
+    {
+        return vida;
     }
 
 
