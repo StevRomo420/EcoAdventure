@@ -19,6 +19,7 @@ public class GameManager : MonoBehaviour
 
     public static bool estaPuasado;
     public GameObject menuPausa;
+    public GameObject finDelJuego;
 
 
     private void Awake()
@@ -41,18 +42,18 @@ public class GameManager : MonoBehaviour
 
     public void IniciarJuego()
     {
-
+        CambiarEstadoDeJuego(EstadoDelJuego.enJuego);
     }
 
 
     public void FinDeJuego()
     {
-
+        CambiarEstadoDeJuego(EstadoDelJuego.finDelJuego);
     }
 
     public void RegresarAlMenu()
     {
-
+        CambiarEstadoDeJuego(EstadoDelJuego.menu);
     }
 
     public void Resume()
@@ -71,7 +72,7 @@ public class GameManager : MonoBehaviour
         }
         else if (nuevoEstado == EstadoDelJuego.enJuego)
         {
-
+            finDelJuego.SetActive(false);
         }
         else if (nuevoEstado == EstadoDelJuego.pausa)
         {
@@ -83,7 +84,7 @@ public class GameManager : MonoBehaviour
         else if (nuevoEstado == EstadoDelJuego.finDelJuego)
         {
 
-           // SceneManager.LoadScene("GameOver");
+            finDelJuego.SetActive(true);
         }
 
     }
