@@ -63,6 +63,9 @@ public class GameManager : MonoBehaviour
         estaPuasado = false;
         CambiarEstadoDeJuego(EstadoDelJuego.enJuego);
     }
+    public void Pausa(){
+        CambiarEstadoDeJuego(EstadoDelJuego.pausa);
+    }
 
     void CambiarEstadoDeJuego(EstadoDelJuego nuevoEstado)
     {
