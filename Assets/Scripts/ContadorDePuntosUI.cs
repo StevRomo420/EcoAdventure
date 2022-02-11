@@ -26,7 +26,9 @@ public class ContadorDePuntosUI : MonoBehaviour
     {
 
         scoreValue = p2.totalDePuntos();
-        score.text = "Puntos: " + scoreValue;
+        score.text = scoreValue.ToString();
+
+     
 
     }
 }

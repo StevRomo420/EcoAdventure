@@ -30,7 +30,7 @@ public class BasureroVidrio : MonoBehaviour
         }
         else
         {
-            p2.Perder(50);
+            p2.Perder();
     
             Destroy(collision.gameObject);
         }

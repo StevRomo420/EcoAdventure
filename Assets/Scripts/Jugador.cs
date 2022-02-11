@@ -35,16 +35,17 @@ public class Jugador : MonoBehaviour
         this.puntos += puntosObtenidos;
         this.punto = true;
         this.noPunto = false;
+        AudioManager.sharedInstance.PlayAudio("Ganar");
         
     }
 
-    public void Perder(int puntosObtenidos)
+    public void Perder()
     {
-        this.puntos -= puntosObtenidos;
         this.vida = vida - 1;
         this.noPunto = true;
         this.punto = false;
-       
+        AudioManager.sharedInstance.PlayAudio("Perder");
+
     }
 
     public int totalDePuntos()

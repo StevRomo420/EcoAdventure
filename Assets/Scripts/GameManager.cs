@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Audio;
 
 public enum EstadoDelJuego
 {
@@ -11,20 +12,31 @@ public enum EstadoDelJuego
     finDelJuego
 }
 
+public enum Juegos
+{
+    Clasificacion,
+    Huerta,
+    Barco
+}
+
 public class GameManager : MonoBehaviour
 {
     public static GameManager sharedInstance;
 
     public EstadoDelJuego estadoActual = EstadoDelJuego.menu;
 
+    public Juegos juegoActual;
+
     public static bool estaPuasado;
     public GameObject menuPausa;
     public GameObject finDelJuego;
+  
 
 
     private void Awake()
     {
         sharedInstance = this;
+       
     }
 
     // Start is called before the first frame update
@@ -58,12 +70,29 @@ public class GameManager : MonoBehaviour
 
     public void Resume()
     {
+        AudioManager.sharedInstance.PlayAudio("Click");
+        
         menuPausa.SetActive(false);
         Time.timeScale = 1f;
         estaPuasado = false;
         CambiarEstadoDeJuego(EstadoDelJuego.enJuego);
+        if (juegoActual == Juegos.Clasificacion)
+        {
+            AudioListener.pause = false;
+        }
+        else if(juegoActual == Juegos.Barco)
+        {
+            //ToDo:Logica para poner la musica del juego correspondiente
+        }else if(juegoActual == Juegos.Huerta)
+        {
+            //ToDo:Logica para poner la musica del juego correspondiente
+        }
+
+
+
     }
     public void Pausa(){
+        AudioManager.sharedInstance.PlayAudio("Click");
         CambiarEstadoDeJuego(EstadoDelJuego.pausa);
     }
 
@@ -81,6 +110,9 @@ public class GameManager : MonoBehaviour
         {
             menuPausa.SetActive(true);
             Time.timeScale = 0f;
+
+            AudioListener.pause = true;
+
             estaPuasado = true;
 
         }
@@ -88,6 +120,7 @@ public class GameManager : MonoBehaviour
         {
 
             finDelJuego.SetActive(true);
+            Time.timeScale = 0f;
         }
 
     }
