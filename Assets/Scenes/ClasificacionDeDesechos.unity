@@ -1927,8 +1927,9 @@ GameObject:
   - component: {fileID: 570391016}
   - component: {fileID: 570391015}
   - component: {fileID: 570391014}
+  - component: {fileID: 570391017}
   m_Layer: 5
-  m_Name: Menu
+  m_Name: MenuPausa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1997,7 +1998,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 570391015}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 570391017}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: MenuPrincipal
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &570391015
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2036,6 +2049,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 570391012}
   m_CullTransparentMesh: 1
+--- !u!114 &570391017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 570391012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &575007110
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4934,8 +4959,9 @@ GameObject:
   - component: {fileID: 1662720093}
   - component: {fileID: 1662720092}
   - component: {fileID: 1662720091}
+  - component: {fileID: 1662720094}
   m_Layer: 5
-  m_Name: Menu
+  m_Name: MenuFin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5004,7 +5030,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1662720092}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1662720094}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: MenuPrincipal
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1662720092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5043,6 +5081,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1662720089}
   m_CullTransparentMesh: 1
+--- !u!114 &1662720094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1662720089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1697732043 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
