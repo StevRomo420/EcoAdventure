@@ -135,6 +135,7 @@ GameObject:
   - component: {fileID: 77932067}
   - component: {fileID: 77932066}
   - component: {fileID: 77932065}
+  - component: {fileID: 77932068}
   m_Layer: 5
   m_Name: informacion
   m_TagString: Untagged
@@ -204,7 +205,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 77932066}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 77932068}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: AbrirInformacion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &77932066
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -243,6 +256,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 77932063}
   m_CullTransparentMesh: 1
+--- !u!114 &77932068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 77932063}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AcercaDe: {fileID: 1011162518}
 --- !u!1 &98207154
 GameObject:
   m_ObjectHideFlags: 0
@@ -333,7 +359,7 @@ GameObject:
   - component: {fileID: 186171269}
   - component: {fileID: 186171270}
   m_Layer: 0
-  m_Name: Untitled_16
+  m_Name: LogoPlanta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -520,8 +546,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4, y: 5}
-  m_SizeDelta: {x: 1920, y: 1080}
+  m_AnchoredPosition: {x: 0.0039673, y: -2.89}
+  m_SizeDelta: {x: 2074, y: 1171.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &283414135
 MonoBehaviour:
@@ -706,6 +732,86 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  AcercaDe: {fileID: 0}
+--- !u!1 &362191300
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 362191301}
+  - component: {fileID: 362191303}
+  - component: {fileID: 362191302}
+  m_Layer: 5
+  m_Name: Titulo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &362191301
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362191300}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 5, y: 5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1011162519}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 23.61, y: 358.88}
+  m_SizeDelta: {x: 258.38, y: 56.28}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &362191302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362191300}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: d0095fcd840ac354f8dbd10c9c9fcbb2, type: 3}
+    m_FontSize: 12
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 0
+    m_MaxSize: 40
+    m_Alignment: 1
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 1
+    m_LineSpacing: 1
+  m_Text: "Eco Aventure \nTCU-656"
+--- !u!222 &362191303
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 362191300}
+  m_CullTransparentMesh: 1
 --- !u!1 &507110392
 GameObject:
   m_ObjectHideFlags: 0
@@ -878,7 +984,7 @@ GameObject:
   - component: {fileID: 547510368}
   - component: {fileID: 547510369}
   m_Layer: 0
-  m_Name: Untitled_17
+  m_Name: LogoRecipiente
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1323,6 +1429,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  AcercaDe: {fileID: 0}
 --- !u!1 &1011162518
 GameObject:
   m_ObjectHideFlags: 0
@@ -1335,7 +1442,7 @@ GameObject:
   - component: {fileID: 1011162521}
   - component: {fileID: 1011162520}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: AcercaDe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1357,13 +1464,15 @@ RectTransform:
   - {fileID: 186171269}
   - {fileID: 1883913579}
   - {fileID: 547510368}
+  - {fileID: 362191301}
+  - {fileID: 1025460052}
   m_Father: {fileID: 1778122558}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 8.890015, y: 7.619995}
+  m_SizeDelta: {x: 153.97, y: 85.51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1011162520
 MonoBehaviour:
@@ -1402,6 +1511,89 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1011162518}
+  m_CullTransparentMesh: 1
+--- !u!1 &1025460051
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1025460052}
+  - component: {fileID: 1025460054}
+  - component: {fileID: 1025460053}
+  m_Layer: 5
+  m_Name: 'Produccion '
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1025460052
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1025460051}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1011162519}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.000030518, y: -73}
+  m_SizeDelta: {x: 621.86, y: 506.88}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1025460053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1025460051}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: d0095fcd840ac354f8dbd10c9c9fcbb2, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 0
+    m_MinSize: 10
+    m_MaxSize: 40
+    m_Alignment: 0
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: "Dise\xF1o y Desarrollo\n\nChaves Mora Aldahir\t\r\nV\xE1squez Murillo
+    Erick\t\r\nRosales Mora Esteban \t\r\nD\xE1vila P\xE9rez Jose  Pablo\r\n\nAudio\n\nAudio
+    tomado de Epidemic Sound\n\nObjetivo\n\nDesarrollar un videojuego que fomente
+    la educaci\xF3n y acci\xF3n ambiental en los estudiantes de primaria en las comunidades
+    de Guanacaste"
+--- !u!222 &1025460054
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1025460051}
   m_CullTransparentMesh: 1
 --- !u!1 &1238182224
 GameObject:
@@ -1656,9 +1848,10 @@ GameObject:
   - component: {fileID: 1371996416}
   - component: {fileID: 1371996419}
   - component: {fileID: 1371996418}
+  - component: {fileID: 1371996420}
   - component: {fileID: 1371996417}
   m_Layer: 5
-  m_Name: Button
+  m_Name: Regresar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1726,7 +1919,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1371996418}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1371996420}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: CerrarInformacion
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1371996418
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1765,6 +1970,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1371996415}
   m_CullTransparentMesh: 1
+--- !u!114 &1371996420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1371996415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AcercaDe: {fileID: 1011162518}
 --- !u!1 &1778122554
 GameObject:
   m_ObjectHideFlags: 0
@@ -1881,7 +2099,7 @@ GameObject:
   - component: {fileID: 1883913579}
   - component: {fileID: 1883913580}
   m_Layer: 0
-  m_Name: Untitled_18
+  m_Name: LogoBarco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
