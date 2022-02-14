@@ -8,6 +8,9 @@ public class JuegoNuevoC : MonoBehaviour
     public void CargarJuegoClasificacion()
     {
         AudioManager.sharedInstance.PlayAudio("Click");
+        
         SceneManager.LoadScene("ClasificacionDeDesechos");
+        GameManager.sharedInstance.estadoActual = EstadoDelJuego.enJuego;
+
     }
 }

@@ -15,6 +15,7 @@ public class Spawner : MonoBehaviour
         StartCoroutine(SpawnRandomGameObject());
     }
 
+ 
     // Update is called once per frame
 
     IEnumerator SpawnRandomGameObject()

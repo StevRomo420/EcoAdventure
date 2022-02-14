@@ -359,6 +359,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: LimitesScena (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6268315
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.6906774
+      objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
       value: 22
@@ -738,6 +746,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: LimitesScena (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6327672
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.6877096
+      objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
       value: 24
@@ -873,6 +889,14 @@ PrefabInstance:
     - target: {fileID: 260905547369357587, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_Name
       value: LimitesScena (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6683798
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.6699033
       objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
@@ -1248,19 +1272,19 @@ MonoBehaviour:
   audios:
   - nombre: ClaficacionTemaPrincipal
     clip: {fileID: 8300000, guid: 0215956e531bd9c47a33e55a71ea7268, type: 3}
-    volumen: 0.455
+    volumen: 0.143
     pitch: 1.04
     loop: 1
     recurso: {fileID: 0}
   - nombre: Ganar
     clip: {fileID: 8300000, guid: edefe8544bb7cfd4ba99e7caf8239896, type: 3}
-    volumen: 0.738
+    volumen: 0.128
     pitch: 1.04
     loop: 0
     recurso: {fileID: 0}
   - nombre: Perder
     clip: {fileID: 8300000, guid: b291e1db073105041ab00c63692df23a, type: 3}
-    volumen: 0.757
+    volumen: 0.121
     pitch: 1.04
     loop: 0
     recurso: {fileID: 0}
@@ -1422,6 +1446,14 @@ PrefabInstance:
     - target: {fileID: 260905547369357587, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_Name
       value: LimitesScena (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6030898
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.7025483
       objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
@@ -2072,6 +2104,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: LimitesScena (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6090252
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.6995807
+      objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
       value: 23
@@ -2467,6 +2507,14 @@ PrefabInstance:
     - target: {fileID: 260905547369357587, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_Name
       value: LimitesScena (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.7099283
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.649129
       objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
@@ -4268,6 +4316,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: LimitesScena (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6268315
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.6906774
+      objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
       value: 27
@@ -4475,23 +4531,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1368927296 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1838123652725764774, guid: 406b16bf2e9522c4aabdefbc81372def, type: 3}
-  m_PrefabInstance: {fileID: 1838123653261715606}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1368927300
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1368927296}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 912bf2ddf5320974cb60cb63be650d10, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1374294882
 GameObject:
   m_ObjectHideFlags: 0
@@ -4584,6 +4623,14 @@ PrefabInstance:
     - target: {fileID: 260905547369357587, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_Name
       value: LimitesScena (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6090252
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.6995807
       objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder
@@ -4837,10 +4884,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1024e92bc04367a4587855760d1fd0e6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  vida: 3
+  vida: 4
   puntos: 0
   punto: 0
   noPunto: 0
+  retorno: 0
 --- !u!1 &1645455056
 GameObject:
   m_ObjectHideFlags: 0
@@ -5244,23 +5292,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1984465886}
   m_CullTransparentMesh: 1
---- !u!1 &2072404011 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1838123652394291506, guid: 406b16bf2e9522c4aabdefbc81372def, type: 3}
-  m_PrefabInstance: {fileID: 1838123653261715606}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &2072404015
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2072404011}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a8721747b5a154c47b9659ab30807688, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2107603321
 GameObject:
   m_ObjectHideFlags: 0
@@ -5770,6 +5801,14 @@ PrefabInstance:
     - target: {fileID: 260905547369357587, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_Name
       value: LimitesScena
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Size.y
+      value: 2.6090252
+      objectReference: {fileID: 0}
+    - target: {fileID: 6965255393304887903, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+      propertyPath: m_Offset.y
+      value: -2.6995807
       objectReference: {fileID: 0}
     - target: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
       propertyPath: m_RootOrder

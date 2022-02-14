@@ -25,8 +25,13 @@ public class EcoBotController : MonoBehaviour
     {
         animator.SetBool(PUNTO, p2.ObtenerPunto());
         animator.SetBool(NO_PUNTO, p2.PerderPunto());
-        animator.SetBool(RETORNO, true);
+      
 
+    }
+
+    void FixedUpdate()
+    {
+        animator.SetBool(RETORNO, true);
     }
 
 

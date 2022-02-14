@@ -60,6 +60,8 @@ public class ClasificacionManager : MonoBehaviour
         }
     }
 
+    
+
    
 
 }

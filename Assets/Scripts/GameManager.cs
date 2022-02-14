@@ -30,6 +30,8 @@ public class GameManager : MonoBehaviour
     public static bool estaPuasado;
     public GameObject menuPausa;
     public GameObject finDelJuego;
+
+    
   
 
 
@@ -105,6 +107,7 @@ public class GameManager : MonoBehaviour
         else if (nuevoEstado == EstadoDelJuego.enJuego)
         {
             finDelJuego.SetActive(false);
+        
         }
         else if (nuevoEstado == EstadoDelJuego.pausa)
         {
@@ -120,7 +123,7 @@ public class GameManager : MonoBehaviour
         {
 
             finDelJuego.SetActive(true);
-            Time.timeScale = 0f;
+            
         }
 
     }

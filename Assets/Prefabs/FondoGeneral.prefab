@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1838123652394291505}
   - component: {fileID: 1838123652394291504}
   - component: {fileID: 1838123652394291507}
+  - component: {fileID: 2072404015}
   m_Layer: 0
   m_Name: Basurin_Idle-1
   m_TagString: Untagged
@@ -102,6 +103,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2072404015
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1838123652394291506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8721747b5a154c47b9659ab30807688, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1838123652725764774
 GameObject:
   m_ObjectHideFlags: 0
@@ -113,6 +126,7 @@ GameObject:
   - component: {fileID: 1838123652725764773}
   - component: {fileID: 1838123652725764772}
   - component: {fileID: 1838123652725764775}
+  - component: {fileID: 1368927300}
   m_Layer: 0
   m_Name: EcoBot_Idle-1
   m_TagString: Untagged
@@ -204,6 +218,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1368927300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1838123652725764774}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 912bf2ddf5320974cb60cb63be650d10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1838123652863078482
 GameObject:
   m_ObjectHideFlags: 0
@@ -513,7 +539,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6516641491244714442}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 7.4950304, y: -3.861537, z: 101.535576}
+  m_LocalPosition: {x: 7.42, y: -3.99, z: 101.535576}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2699371391898325398}
@@ -677,7 +703,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8763837224264782727}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 5.8231773, y: -4.19557, z: 101.535576}
+  m_LocalPosition: {x: 5.8231773, y: -4.25, z: 101.535576}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 2699371391898325398}

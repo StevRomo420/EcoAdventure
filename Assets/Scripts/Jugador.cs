@@ -13,22 +13,10 @@ public class Jugador : MonoBehaviour
 
     public bool punto=false;
     public bool noPunto=false;
+    public bool retorno = false;
 
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-        
-      
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+   
 
     public void Ganar(int puntosObtenidos)
     {
