@@ -15,7 +15,8 @@ public class MenuManager : MonoBehaviour
     public void Clasificacion()
     {
         SceneManager.LoadScene("ClasificacionDeDesechos");
-
+        Time.timeScale = 1f;
+       
     }
     public void MenuPrincipal()
     {

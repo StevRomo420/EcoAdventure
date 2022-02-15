@@ -56,6 +56,7 @@ public class GameManager : MonoBehaviour
 
     public void IniciarJuego()
     {
+        Time.timeScale = 1f;
         CambiarEstadoDeJuego(EstadoDelJuego.enJuego);
     }
 
@@ -67,6 +68,7 @@ public class GameManager : MonoBehaviour
 
     public void RegresarAlMenu()
     {
+       
         CambiarEstadoDeJuego(EstadoDelJuego.menu);
     }
 
@@ -107,7 +109,8 @@ public class GameManager : MonoBehaviour
         else if (nuevoEstado == EstadoDelJuego.enJuego)
         {
             finDelJuego.SetActive(false);
-        
+           
+
         }
         else if (nuevoEstado == EstadoDelJuego.pausa)
         {
@@ -123,7 +126,15 @@ public class GameManager : MonoBehaviour
         {
 
             finDelJuego.SetActive(true);
-            
+           // AudioManager.sharedInstance.StopAudio("ClaficacionTemaPrincipal");
+            AudioManager.sharedInstance.StopAudio("Ganar");
+            AudioManager.sharedInstance.StopAudio("Perder");
+
+
+
+
+
+
         }
 
     }

@@ -10,6 +10,8 @@ public class BasureroEnvases : MonoBehaviour
     {
         GameObject prueba = GameObject.Find("Jugador");
         p2 = prueba.GetComponent<Jugador>();
+
+      
     }
 
     // Update is called once per frame

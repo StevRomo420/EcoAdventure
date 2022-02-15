@@ -41,7 +41,20 @@ public class AudioManager : MonoBehaviour
         s.recurso.Play();
     }
 
-   
+    public void StopAudio(string nombre)
+    {
+
+        Audios s = Array.Find(audios, audio => audio.nombre == nombre);
+        if (s == null)
+        {
+            Debug.LogWarning("Audio " + nombre + " no encontrado");
+            return;
+        }
+
+        s.recurso.Stop();
+    }
+
+
 
 
 }
