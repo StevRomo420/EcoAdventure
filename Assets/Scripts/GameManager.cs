@@ -23,13 +23,14 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager sharedInstance;
 
-    public EstadoDelJuego estadoActual = EstadoDelJuego.menu;
+    public EstadoDelJuego estadoActual;
 
     public Juegos juegoActual;
 
     public static bool estaPuasado;
     public GameObject menuPausa;
     public GameObject finDelJuego;
+    public GameObject acercaDe;
 
     
   
@@ -45,7 +46,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         estadoActual = EstadoDelJuego.enJuego;
-        
+
     }
 
     // Update is called once per frame
@@ -53,6 +54,10 @@ public class GameManager : MonoBehaviour
     {
         
     }
+
+    /// <summary>
+    /// Para el control de estados de juego
+    /// </summary>
 
     public void IniciarJuego()
     {
@@ -80,23 +85,16 @@ public class GameManager : MonoBehaviour
         Time.timeScale = 1f;
         estaPuasado = false;
         CambiarEstadoDeJuego(EstadoDelJuego.enJuego);
-        if (juegoActual == Juegos.Clasificacion)
-        {
-            AudioListener.pause = false;
-        }
-        else if(juegoActual == Juegos.Barco)
-        {
-            //ToDo:Logica para poner la musica del juego correspondiente
-        }else if(juegoActual == Juegos.Huerta)
-        {
-            //ToDo:Logica para poner la musica del juego correspondiente
-        }
 
-
+    
 
     }
     public void Pausa(){
         AudioManager.sharedInstance.PlayAudio("Click");
+       
+        menuPausa.SetActive(true);
+        Time.timeScale = 0f;
+        estaPuasado = true;
         CambiarEstadoDeJuego(EstadoDelJuego.pausa);
     }
 
@@ -104,39 +102,77 @@ public class GameManager : MonoBehaviour
     {
         if (nuevoEstado == EstadoDelJuego.menu)
         {
-
+            SceneManager.LoadScene("MenuPricipal");
+            estadoActual = EstadoDelJuego.menu;
+           
         }
         else if (nuevoEstado == EstadoDelJuego.enJuego)
         {
             finDelJuego.SetActive(false);
-           
-
+            estadoActual = EstadoDelJuego.enJuego;
+          
         }
         else if (nuevoEstado == EstadoDelJuego.pausa)
         {
             menuPausa.SetActive(true);
             Time.timeScale = 0f;
-
-            AudioListener.pause = true;
-
             estaPuasado = true;
-
+            estadoActual = EstadoDelJuego.pausa;
+            
         }
         else if (nuevoEstado == EstadoDelJuego.finDelJuego)
         {
 
             finDelJuego.SetActive(true);
-           // AudioManager.sharedInstance.StopAudio("ClaficacionTemaPrincipal");
-            AudioManager.sharedInstance.StopAudio("Ganar");
-            AudioManager.sharedInstance.StopAudio("Perder");
 
-
-
-
-
-
+            estadoActual = EstadoDelJuego.finDelJuego;
+        
         }
 
+    }
+
+    /// <summary>
+    /// Para la seleccion de juegos
+    /// </summary>
+
+    public void JuegoClasificacion()
+    {
+        CambiarJuego(Juegos.Clasificacion);
+    }
+
+
+
+    void CambiarJuego(Juegos juegoElejido)
+    {
+        if (juegoElejido == Juegos.Clasificacion)
+        {
+            SceneManager.LoadScene("ClasificacionDeDesechos");
+            IniciarJuego();
+
+        }else if (juegoElejido == Juegos.Huerta)
+        {
+
+        }else if (juegoElejido == Juegos.Barco)
+        {
+
+        }
+    }
+/// <summary>
+/// Botones funcionales del juego
+/// </summary>
+
+    public void Cerrarjuego()
+    {
+        Application.Quit();
+
+    }
+    public void AbrirInformacion()
+    {
+        acercaDe.SetActive(true);
+    }
+    public void CerrarInformacion()
+    {
+        acercaDe.SetActive(false);
     }
 
 

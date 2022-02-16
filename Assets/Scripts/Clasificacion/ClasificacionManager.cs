@@ -32,6 +32,7 @@ public class ClasificacionManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         if (Input.GetButtonDown("Horizontal"))
         {
             MovimientoDeLaBasura();
@@ -45,19 +46,15 @@ public class ClasificacionManager : MonoBehaviour
 
     void MovimientoDeLaBasura()
     {
-        if (GameManager.sharedInstance.estadoActual == EstadoDelJuego.enJuego)
-        {
+       
             if (basuraRigibodoy.velocity.x < velocidadDeMovimiento)
             {
                 float movimiento = Input.GetAxis("Horizontal");
                 basuraRigibodoy.velocity = new Vector2(movimiento*velocidadDeMovimiento,basuraRigibodoy.velocity.y);
 
             }
-        }
-        else
-        {
-            basuraRigibodoy.velocity = new Vector2(0, basuraRigibodoy.velocity.y);
-        }
+       
+        
     }
 
     

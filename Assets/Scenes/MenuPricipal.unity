@@ -207,7 +207,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 77932068}
-        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: AbrirInformacion
         m_Mode: 1
         m_Arguments:
@@ -265,10 +265,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 77932063}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Script: {fileID: 11500000, guid: 75f2aaa67fcc1f54c86ac51c62efedc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AcercaDe: {fileID: 1011162518}
+  estadoActual: 0
+  juegoActual: 0
+  menuPausa: {fileID: 729758008}
+  finDelJuego: {fileID: 729758008}
+  acercaDe: {fileID: 1011162518}
 --- !u!1 &98207154
 GameObject:
   m_ObjectHideFlags: 0
@@ -671,7 +675,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 325358820}
-        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: Cerrarjuego
         m_Mode: 1
         m_Arguments:
@@ -729,10 +733,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 325358815}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Script: {fileID: 11500000, guid: 75f2aaa67fcc1f54c86ac51c62efedc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AcercaDe: {fileID: 0}
+  estadoActual: 0
+  juegoActual: 0
+  menuPausa: {fileID: 729758008}
+  finDelJuego: {fileID: 729758008}
+  acercaDe: {fileID: 1011162518}
 --- !u!1 &362191300
 GameObject:
   m_ObjectHideFlags: 0
@@ -1055,6 +1063,36 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &729758008
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 729758009}
+  m_Layer: 0
+  m_Name: Relleno
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &729758009
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 729758008}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.701138, y: 0.49515897, z: -223.8492}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &829657498
 GameObject:
   m_ObjectHideFlags: 0
@@ -1368,8 +1406,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 978502968}
-        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
-        m_MethodName: Clasificacion
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: JuegoClasificacion
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1426,10 +1464,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 978502963}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Script: {fileID: 11500000, guid: 75f2aaa67fcc1f54c86ac51c62efedc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AcercaDe: {fileID: 0}
+  estadoActual: 0
+  juegoActual: 0
+  menuPausa: {fileID: 729758008}
+  finDelJuego: {fileID: 729758008}
+  acercaDe: {fileID: 1011162518}
 --- !u!1 &1011162518
 GameObject:
   m_ObjectHideFlags: 0
@@ -1848,8 +1890,8 @@ GameObject:
   - component: {fileID: 1371996416}
   - component: {fileID: 1371996419}
   - component: {fileID: 1371996418}
-  - component: {fileID: 1371996420}
   - component: {fileID: 1371996417}
+  - component: {fileID: 1371996420}
   m_Layer: 5
   m_Name: Regresar
   m_TagString: Untagged
@@ -1921,7 +1963,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1371996420}
-        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
         m_MethodName: CerrarInformacion
         m_Mode: 1
         m_Arguments:
@@ -1979,10 +2021,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1371996415}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Script: {fileID: 11500000, guid: 75f2aaa67fcc1f54c86ac51c62efedc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AcercaDe: {fileID: 1011162518}
+  estadoActual: 0
+  juegoActual: 0
+  menuPausa: {fileID: 729758008}
+  finDelJuego: {fileID: 729758008}
+  acercaDe: {fileID: 1011162518}
 --- !u!1 &1778122554
 GameObject:
   m_ObjectHideFlags: 0
