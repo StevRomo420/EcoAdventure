@@ -69,6 +69,7 @@ public class GameManager : MonoBehaviour
     public void FinDeJuego()
     {
         CambiarEstadoDeJuego(EstadoDelJuego.finDelJuego);
+
     }
 
     public void RegresarAlMenu()

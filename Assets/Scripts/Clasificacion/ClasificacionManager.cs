@@ -11,7 +11,7 @@ public class ClasificacionManager : MonoBehaviour
 
     public float velocidadDeMovimiento = 2f;
 
-
+    public Jugador jugador;
 
 
  
@@ -26,7 +26,8 @@ public class ClasificacionManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        GameObject player = GameObject.Find("Jugador");
+        jugador = player.GetComponent<Jugador>();
     }
 
     // Update is called once per frame
@@ -46,15 +47,20 @@ public class ClasificacionManager : MonoBehaviour
 
     void MovimientoDeLaBasura()
     {
-       
+        if (jugador.vidaRestante() > 0)
+        {
             if (basuraRigibodoy.velocity.x < velocidadDeMovimiento)
             {
                 float movimiento = Input.GetAxis("Horizontal");
-                basuraRigibodoy.velocity = new Vector2(movimiento*velocidadDeMovimiento,basuraRigibodoy.velocity.y);
+                basuraRigibodoy.velocity = new Vector2(movimiento * velocidadDeMovimiento, basuraRigibodoy.velocity.y);
 
             }
+        }
+        else {
+            basuraRigibodoy.velocity = new Vector2(0, 0);
+        }
        
-        
+              
     }
 
     
