@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 5114260275387016074}
   m_Layer: 0
   m_Name: Envases-5
-  m_TagString: Aluminio
+  m_TagString: Envases
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -135,3 +135,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   velocidadDeMovimiento: 7
+  jugador: {fileID: 0}
