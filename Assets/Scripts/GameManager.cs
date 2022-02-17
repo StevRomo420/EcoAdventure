@@ -104,6 +104,7 @@ public class GameManager : MonoBehaviour
         if (nuevoEstado == EstadoDelJuego.menu)
         {
             SceneManager.LoadScene("MenuPricipal");
+            AudioManager.sharedInstance.PlayAudio("Menu");
             estadoActual = EstadoDelJuego.menu;
            
         }
@@ -148,6 +149,7 @@ public class GameManager : MonoBehaviour
         if (juegoElejido == Juegos.Clasificacion)
         {
             SceneManager.LoadScene("ClasificacionDeDesechos");
+           
             IniciarJuego();
 
         }else if (juegoElejido == Juegos.Huerta)
@@ -164,15 +166,18 @@ public class GameManager : MonoBehaviour
 
     public void Cerrarjuego()
     {
+        AudioManager.sharedInstance.PlayAudio("Click");
         Application.Quit();
 
     }
     public void AbrirInformacion()
     {
+        AudioManager.sharedInstance.PlayAudio("Click");
         acercaDe.SetActive(true);
     }
     public void CerrarInformacion()
     {
+        AudioManager.sharedInstance.PlayAudio("Click");
         acercaDe.SetActive(false);
     }
 

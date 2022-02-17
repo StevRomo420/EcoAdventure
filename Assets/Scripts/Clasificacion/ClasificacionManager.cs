@@ -19,6 +19,7 @@ public class ClasificacionManager : MonoBehaviour
 
     private void Awake()
     {
+        
         basuraRigibodoy = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
     }
@@ -26,6 +27,7 @@ public class ClasificacionManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+       
         GameObject player = GameObject.Find("Jugador");
         jugador = player.GetComponent<Jugador>();
     }

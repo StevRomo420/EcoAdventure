@@ -25,7 +25,7 @@ public class AudioManager : MonoBehaviour
             audioClip.recurso.pitch = audioClip.pitch;
             audioClip.recurso.loop = audioClip.loop;
         }
-        PlayAudio("ClaficacionTemaPrincipal");
+        //PlayAudio("ClaficacionTemaPrincipal");
     }
 
     public void PlayAudio(string nombre)
