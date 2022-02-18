@@ -14,6 +14,9 @@ TagManager:
   - Papel
   - Organico
   - Vidrio
+  - Musica
+  - Fertilizante
+  - Regadera
   layers:
   - Default
   - TransparentFX
