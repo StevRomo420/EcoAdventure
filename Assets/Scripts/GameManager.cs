@@ -142,8 +142,12 @@ public class GameManager : MonoBehaviour
         CambiarJuego(Juegos.Clasificacion);
     }
 
-
-
+    public void JuegoHuerta()
+    {
+        CambiarJuego(Juegos.Huerta);
+    }
+    
+ 
     void CambiarJuego(Juegos juegoElejido)
     {
         if (juegoElejido == Juegos.Clasificacion)
@@ -154,8 +158,11 @@ public class GameManager : MonoBehaviour
 
         }else if (juegoElejido == Juegos.Huerta)
         {
+            SceneManager.LoadScene("Invernadero");
 
-        }else if (juegoElejido == Juegos.Barco)
+            IniciarJuego();
+        }
+        else if (juegoElejido == Juegos.Barco)
         {
 
         }

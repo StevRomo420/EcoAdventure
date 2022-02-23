@@ -12,13 +12,14 @@ public class SolicitarIteams : MonoBehaviour
     public float time;
     public bool Viva = true; 
     public bool Colicion = false;
+    string Tag = "";
     GameObject iteam;
-    AnimacionesMaiz animacion;
+    AnimacionesPlanta animacion;
     // Start is called before the first frame update
     void Start()
     {
         StartCoroutine(SpawnRandomGameObject());
-        animacion = GetComponent<AnimacionesMaiz>();
+        animacion = GetComponent<AnimacionesPlanta>();
     }
 
 
@@ -27,8 +28,9 @@ public class SolicitarIteams : MonoBehaviour
     IEnumerator SpawnRandomGameObject()
     {
 
+        float randomTime = Random.Range(time, time * 2);
+        yield return new WaitForSeconds(randomTime);
        
-        yield return new WaitForSeconds(time);
         
         int randomIteam = Random.Range(0, items.Length);
 
@@ -37,18 +39,21 @@ public class SolicitarIteams : MonoBehaviour
             iteam = Instantiate(items[randomIteam]) as GameObject;
 
             iteam.transform.position = new Vector2(Random.Range(xBoundsStart, xBoundsEnds), yBounds);
+            Tag = iteam.tag;
             Colicion = false;
              yield return new WaitForSeconds(time);
-            Destroy(iteam);
+            
+            DestruirOdgeto();
+            Tag = "";
             if (Colicion){
-                Debug.Log("si");
+               
             }
                 else
                 {
                 animacion.Marchitar();
                 time = 0;
                 Viva = false;
-                Debug.Log("no");
+                
             }
         }
         if(Viva)
@@ -59,10 +64,15 @@ public class SolicitarIteams : MonoBehaviour
 
 
     }
-    public bool ObtenerTag(string Tag)
+    public string ObtenerTag()
     {
         
-        return true;
+        return Tag;
     }
-   
+    public void DestruirOdgeto()
+    {
+        Tag = "";
+        Destroy(iteam);
+    }
+
 }

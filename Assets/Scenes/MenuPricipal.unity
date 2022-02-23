@@ -1784,6 +1784,7 @@ GameObject:
   - component: {fileID: 1327960829}
   - component: {fileID: 1327960828}
   - component: {fileID: 1327960827}
+  - component: {fileID: 1327960830}
   m_Layer: 5
   m_Name: BotonInvernadero
   m_TagString: Untagged
@@ -1854,7 +1855,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1327960828}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1327960830}
+        m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
+        m_MethodName: JuegoHuerta
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1327960828
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1893,6 +1906,23 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1327960825}
   m_CullTransparentMesh: 1
+--- !u!114 &1327960830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1327960825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f2aaa67fcc1f54c86ac51c62efedc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  estadoActual: 0
+  juegoActual: 0
+  menuPausa: {fileID: 729758008}
+  finDelJuego: {fileID: 729758008}
+  acercaDe: {fileID: 1011162518}
 --- !u!1 &1371996415
 GameObject:
   m_ObjectHideFlags: 0
@@ -2157,9 +2187,53 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
       propertyPath: audios.Array.data[4].clip
       value: 
       objectReference: {fileID: 8300000, guid: 65c4bb554ad71c241aff73d46a1d84b3, type: 3}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[5].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e6b682eb99e2bdc43b4d675e798984cb, type: 3}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[5].loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[6].clip
+      value: 
+      objectReference: {fileID: 8300000, guid: e6b682eb99e2bdc43b4d675e798984cb, type: 3}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[6].loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[5].pitch
+      value: 1.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[6].pitch
+      value: 1.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[5].nombre
+      value: InvernaderoTemaPrincipal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[6].nombre
+      value: InvernaderoTemaPrincipal
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[5].volumen
+      value: 0.144
+      objectReference: {fileID: 0}
+    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
+      propertyPath: audios.Array.data[6].volumen
+      value: 0.144
+      objectReference: {fileID: 0}
     - target: {fileID: 6557268678581786385, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
       propertyPath: m_RootOrder
       value: 1
