@@ -146,8 +146,13 @@ public class GameManager : MonoBehaviour
     {
         CambiarJuego(Juegos.Huerta);
     }
-    
- 
+
+    public void JuegoBarco()
+    {
+        CambiarJuego(Juegos.Barco);
+    }
+
+
     void CambiarJuego(Juegos juegoElejido)
     {
         if (juegoElejido == Juegos.Clasificacion)
@@ -164,7 +169,9 @@ public class GameManager : MonoBehaviour
         }
         else if (juegoElejido == Juegos.Barco)
         {
+            SceneManager.LoadScene("Barco");
 
+            IniciarJuego();
         }
     }
 /// <summary>

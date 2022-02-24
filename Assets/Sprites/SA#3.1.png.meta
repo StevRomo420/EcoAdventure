@@ -1,0 +1,1080 @@
+fileFormatVersion: 2
+guid: 342a1102670584441badb3e713925cce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5689656011898417803
+    second: Fondo
+  - first:
+      213: -4079274654788354272
+    second: Remolino-1
+  - first:
+      213: -2617771182388194392
+    second: Remolino-2
+  - first:
+      213: -5777534183638764567
+    second: Basura-3
+  - first:
+      213: 8363518640409226728
+    second: Basura-4
+  - first:
+      213: -8355671437959605605
+    second: Basura-5
+  - first:
+      213: 5050090355934379582
+    second: Isla-1
+  - first:
+      213: 8945279607534540897
+    second: Isla-2
+  - first:
+      213: -6054473028594406494
+    second: Barco-1
+  - first:
+      213: -4621898266877752193
+    second: Barco-2
+  - first:
+      213: -7564308093873686490
+    second: Barco-3
+  - first:
+      213: -9050257296844171400
+    second: Basura-1
+  - first:
+      213: -2817220356369704968
+    second: Remolino-3
+  - first:
+      213: 7145172159421844996
+    second: Remolino-4
+  - first:
+      213: 284560562442295851
+    second: Basura-6
+  - first:
+      213: -8194279715566407080
+    second: Basura-7
+  - first:
+      213: -8529888951592577391
+    second: Basura-8
+  - first:
+      213: -9179837043310063028
+    second: Basura-2
+  - first:
+      213: 186312020770465707
+    second: Remolino-5
+  - first:
+      213: -5554269836215893723
+    second: Basura-9
+  - first:
+      213: -7614797741586925592
+    second: Basura-10
+  - first:
+      213: -2206061597331666243
+    second: Basura-11
+  - first:
+      213: 4202232754673852156
+    second: Isla-3
+  - first:
+      213: 8643908995326298256
+    second: Barco-4
+  - first:
+      213: -9222077401629966814
+    second: Barco-5
+  - first:
+      213: 1392756995912735844
+    second: SA#3.1_25
+  - first:
+      213: 6249738888706013954
+    second: Basura-12
+  - first:
+      213: -5906734116403826797
+    second: Tortuga-1
+  - first:
+      213: -5136444513241290317
+    second: Tortuga-2
+  - first:
+      213: 7759954958641959895
+    second: Tortuga-3
+  - first:
+      213: -4790167023243545127
+    second: SA#3.1_30
+  - first:
+      213: -7715967202584710833
+    second: Tortuga-4
+  - first:
+      213: 4849393553418033936
+    second: Tortuga-5
+  - first:
+      213: 7946746721716513518
+    second: Tortuga-6
+  - first:
+      213: -5713131534454728541
+    second: Barco-6
+  - first:
+      213: -5737065135498565151
+    second: Tortuga-7
+  - first:
+      213: 5248203075929225488
+    second: Tortuga-8
+  - first:
+      213: -3844790280243276560
+    second: Tortuga-9
+  - first:
+      213: 9206136893064753205
+    second: Tortuga-10
+  - first:
+      213: 6639451380787661802
+    second: Tortuga-11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fondo
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 2427
+        width: 269
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d01a490084a01b0800000000000000
+      internalID: -5689656011898417803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2423
+        width: 286
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff51c70518367c0800000000000000
+      internalID: -4079274654788354272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-2
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2436
+        width: 294
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a35f7aaafecbabd0800000000000000
+      internalID: -2617771182388194392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-3
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 2510
+        width: 254
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f88a454312dfa0800000000000000
+      internalID: -5777534183638764567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-4
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2451
+        width: 146
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed23f144ef211470800000000000000
+      internalID: 8363518640409226728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-5
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2543
+        width: 223
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b925a80f811ba0c80800000000000000
+      internalID: -8355671437959605605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isla-1
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 2390
+        width: 270
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e38151c66851640800000000000000
+      internalID: 5050090355934379582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isla-2
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 2355
+        width: 280
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16854afa864042c70800000000000000
+      internalID: 8945279607534540897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-1
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 2331
+        width: 218
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab6274cbd03afba0800000000000000
+      internalID: -6054473028594406494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-2
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 2333
+        width: 217
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c02ce9308bbdfb0800000000000000
+      internalID: -4621898266877752193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-3
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 2298
+        width: 217
+        height: 403
+      alignment: 9
+      pivot: {x: 0.50000113, y: 0.60801256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628fb05bddd260790800000000000000
+      internalID: -7564308093873686490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2105
+        width: 153
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87757b750f6076280800000000000000
+      internalID: -9050257296844171400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2117
+        width: 296
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7959c130937e8d0800000000000000
+      internalID: -2817220356369704968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-4
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2121
+        width: 293
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e8955e830c82360800000000000000
+      internalID: 7145172159421844996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-6
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2278
+        width: 228
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a5579e256f2f300800000000000000
+      internalID: 284560562442295851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-7
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 2267
+        width: 219
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852b97b8302184e80800000000000000
+      internalID: -8194279715566407080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-8
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 2258
+        width: 261
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1969bca113fbf9980800000000000000
+      internalID: -8529888951592577391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1945
+        width: 153
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42188198daaa9080800000000000000
+      internalID: -9179837043310063028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Remolino-5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1805
+        width: 301
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7a867bbc9e59200800000000000000
+      internalID: 186312020770465707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-9
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2006
+        width: 215
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214fa103054be2b0800000000000000
+      internalID: -5554269836215893723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-10
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2018
+        width: 237
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7b3488ccdc25690800000000000000
+      internalID: -7614797741586925592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-11
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 1969
+        width: 255
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba4a6a5aae7261e0800000000000000
+      internalID: -2206061597331666243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Isla-3
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 2042
+        width: 282
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe98dd0d64515a30800000000000000
+      internalID: 4202232754673852156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-4
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1750
+        width: 218
+        height: 401
+      alignment: 9
+      pivot: {x: 0.4945673, y: 0.59746814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984a311f6555f770800000000000000
+      internalID: 8643908995326298256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-5
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 1761
+        width: 217
+        height: 390
+      alignment: 9
+      pivot: {x: 0.5, y: 0.59414345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e30b0c679940080800000000000000
+      internalID: -9222077401629966814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA#3.1_25
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1667
+        width: 346
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c91dfcb11145310800000000000000
+      internalID: 1392756995912735844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Basura-12
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1750
+        width: 188
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b344028688bb650800000000000000
+      internalID: 6249738888706013954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-1
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1614
+        width: 235
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa119cd90170ea0800000000000000
+      internalID: -5906734116403826797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-2
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 1623
+        width: 236
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9afb3edeea7b8b0800000000000000
+      internalID: -5136444513241290317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-3
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 1606
+        width: 237
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d392eebbe5e0bb60800000000000000
+      internalID: 7759954958641959895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SA#3.1_30
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 1726
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d537c4c878e58db0800000000000000
+      internalID: -4790167023243545127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-4
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1176
+        width: 237
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41bf5fc5b06be490800000000000000
+      internalID: -7715967202584710833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-5
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 1178
+        width: 232
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b1d8f5eb18c4340800000000000000
+      internalID: 4849393553418033936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-6
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 1195
+        width: 237
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa9eb2a04884e60800000000000000
+      internalID: 7946746721716513518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barco-6
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1209
+        width: 218
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5964025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a85ebd8321e6b0b0800000000000000
+      internalID: -5713131534454728541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-7
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 768
+        width: 237
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96451d7a9d160b0800000000000000
+      internalID: -5737065135498565151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-8
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 778
+        width: 219
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019bfd134ec55d840800000000000000
+      internalID: 5248203075929225488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-9
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 795
+        width: 172
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f499365c9f84aac0800000000000000
+      internalID: -3844790280243276560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-10
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 386
+        width: 118
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5303eb06ab4c2cf70800000000000000
+      internalID: 9206136893064753205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tortuga-11
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 403
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb435f7ad1142c50800000000000000
+      internalID: 6639451380787661802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
