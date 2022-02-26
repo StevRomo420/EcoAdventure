@@ -50,10 +50,6 @@ public class BarcoMove : MonoBehaviour
   
     void Entradas()
     {
-
-        //float moveX = Input.GetAxisRaw("Horizontal");
-        //float moveY = Input.GetAxisRaw("Vertical");
-        //moveDirection = new Vector2(moveX, moveY).normalized;
         if (Input.GetMouseButtonDown(0))
         {
             mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -75,6 +71,7 @@ public class BarcoMove : MonoBehaviour
 
     void Move()
     {
+       
         rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
     }
 

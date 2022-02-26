@@ -11,7 +11,6 @@ public class ContadorDePuntosUI : MonoBehaviour
     Text score;
 
 
-    // Start is called before the first frame update
     void Start()
     {
         GameObject prueba = GameObject.Find("Jugador");
@@ -21,7 +20,6 @@ public class ContadorDePuntosUI : MonoBehaviour
 
     }
 
-    // Update is called once per frame
     void Update()
     {
 

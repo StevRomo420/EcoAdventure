@@ -9,30 +9,29 @@ public class Spawner : MonoBehaviour
     public float time;
 
 
-    // Start is called before the first frame update
+
     void Start()
     {
-        StartCoroutine(SpawnRandomGameObject());
+        SpawnRandomGameObject();
     }
 
  
-    // Update is called once per frame
 
-    IEnumerator SpawnRandomGameObject()
+    public void SpawnRandomGameObject()
     {
-
-        yield return new WaitForSeconds(time);
 
         int randomGarbage = Random.Range(0, basura.Length);
 
         if (Random.value <= basura.Length)
         {
-            GameObject a = Instantiate(basura[randomGarbage]) as GameObject;
+            GameObject a = Instantiate(basura[randomGarbage]);
 
             a.transform.position = new Vector2(Random.Range(xBoundsStart, xBoundsEnds), yBounds);
+            
         }
-        StartCoroutine(SpawnRandomGameObject());
-
+       
 
     }
+
+   
 }

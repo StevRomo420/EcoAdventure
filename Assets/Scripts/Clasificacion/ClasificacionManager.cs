@@ -13,6 +13,8 @@ public class ClasificacionManager : MonoBehaviour
 
     public Jugador jugador;
 
+    bool subirDificultad = false;
+
 
  
 
@@ -24,7 +26,7 @@ public class ClasificacionManager : MonoBehaviour
         animator = GetComponent<Animator>();
     }
 
-    // Start is called before the first frame update
+ 
     void Start()
     {
        
@@ -32,7 +34,7 @@ public class ClasificacionManager : MonoBehaviour
         jugador = player.GetComponent<Jugador>();
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
 
@@ -40,11 +42,13 @@ public class ClasificacionManager : MonoBehaviour
         {
             MovimientoDeLaBasura();
         }
+       
     }
 
     private void FixedUpdate()
     {
         MovimientoDeLaBasura();
+        MasDificultad();
     }
 
     void MovimientoDeLaBasura()
@@ -63,6 +67,30 @@ public class ClasificacionManager : MonoBehaviour
         }
        
               
+    }
+
+    void MasDificultad()
+    {
+        if (jugador.puntos >= 1000)
+        {
+            subirDificultad = true;
+            if (subirDificultad == true)
+            {
+                basuraRigibodoy.gravityScale = 1f;
+                subirDificultad = false;
+            }
+        }else if (jugador.puntos >= 2000)
+        {
+            subirDificultad = true;
+            if (subirDificultad == true)
+            {
+                basuraRigibodoy.gravityScale = 2f; ;
+                subirDificultad = false;
+            }
+        }
+      
+
+
     }
 
     

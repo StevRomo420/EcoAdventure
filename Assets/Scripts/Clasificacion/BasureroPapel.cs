@@ -4,19 +4,16 @@ using UnityEngine;
 
 public class BasureroPapel : MonoBehaviour
 {
+    private Jugador jugador;
+    public Spawner elemento;
 
-    public Jugador p2;
-    // Start is called before the first frame update
     void Start()
     {
-        GameObject prueba = GameObject.Find("Jugador");
-        p2 = prueba.GetComponent<Jugador>();
-    }
+        GameObject player = GameObject.Find("Jugador");
+        jugador = player.GetComponent<Jugador>();
 
-    // Update is called once per frame
-    void Update()
-    {
-        
+        GameObject basura = GameObject.Find("SpawPonit");
+        elemento = basura.GetComponent<Spawner>();
     }
 
 
@@ -24,15 +21,15 @@ public class BasureroPapel : MonoBehaviour
     {
         if (collision.tag == "Papel")
         {
-            p2.Ganar(100);
-
+            jugador.Ganar(100);
             Destroy(collision.gameObject);
+            elemento.SpawnRandomGameObject();
         }
         else
         {
-            p2.Perder();
-
+            jugador.Perder();
             Destroy(collision.gameObject);
+            elemento.SpawnRandomGameObject();
         }
     }
 }
