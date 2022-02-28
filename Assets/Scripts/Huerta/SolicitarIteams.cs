@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 
 public class SolicitarIteams : MonoBehaviour
@@ -7,7 +8,7 @@ public class SolicitarIteams : MonoBehaviour
     [SerializeField]
     public GameObject[] items;
     [SerializeField]
-    public float xBoundsStart, xBoundsEnds, yBounds;
+    public float  xBounds, yBounds;
     [SerializeField]
     public float time;
     public bool Viva = true; 
@@ -15,6 +16,7 @@ public class SolicitarIteams : MonoBehaviour
     string Tag = "";
     GameObject iteam;
     AnimacionesPlanta animacion;
+ 
     // Start is called before the first frame update
     void Start()
     {
@@ -36,15 +38,18 @@ public class SolicitarIteams : MonoBehaviour
 
         if (Random.value <= items.Length)
         {
+           
             iteam = Instantiate(items[randomIteam]) as GameObject;
 
-            iteam.transform.position = new Vector2(Random.Range(xBoundsStart, xBoundsEnds), yBounds);
+            iteam.transform.position = new Vector2(xBounds, yBounds);
             Tag = iteam.tag;
             Colicion = false;
-             yield return new WaitForSeconds(time);
-            
+             yield return new WaitForSeconds(3.5f);
+
+           
             DestruirOdgeto();
             Tag = "";
+            
             if (Colicion){
                
             }

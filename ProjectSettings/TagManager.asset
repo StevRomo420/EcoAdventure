@@ -17,7 +17,13 @@ TagManager:
   - Musica
   - Fertilizante
   - Regadera
-  - Planta
+  - Barco
+  - BasuraMar
+  - Remolino
+  - Tomate
+  - Chile
+  - Maiz
+  - Maiz(1)
   layers:
   - Default
   - TransparentFX
