@@ -2516,6 +2516,10 @@ PrefabInstance:
       propertyPath: m_FontData.m_HorizontalOverflow
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602596557980064, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596714837416, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 350
@@ -2528,10 +2532,18 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: -66
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602597249918343, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -7976289369404290623, guid: 4bd31b5eeb73bef4aa46ebffbc63eba5, type: 3}
     - target: {fileID: 1237602597314946236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602597411699077, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2507141303412948246, guid: 4bd31b5eeb73bef4aa46ebffbc63eba5, type: 3}
     - target: {fileID: 1237602597606023093, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 436
@@ -2544,6 +2556,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: JuegoBarco
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602597894221119, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4426983774617491217, guid: 4bd31b5eeb73bef4aa46ebffbc63eba5, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
 --- !u!4 &1361885208 stripped
