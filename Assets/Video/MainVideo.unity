@@ -133,8 +133,8 @@ GameObject:
   m_Component:
   - component: {fileID: 913240808}
   - component: {fileID: 913240807}
-  - component: {fileID: 913240806}
   - component: {fileID: 913240809}
+  - component: {fileID: 913240806}
   m_Layer: 0
   m_Name: Square
   m_TagString: Untagged
@@ -150,7 +150,7 @@ VideoPlayer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 913240805}
   m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 022174e476cb61a40953db4547319e80, type: 3}
+  m_VideoClip: {fileID: 32900000, guid: e6ab848de1300cc449126839ffad313f, type: 3}
   m_TargetCameraAlpha: 1
   m_TargetCamera3DLayout: 0
   m_TargetCamera: {fileID: 0}
