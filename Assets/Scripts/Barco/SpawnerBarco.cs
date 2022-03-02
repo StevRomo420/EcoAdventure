@@ -37,7 +37,7 @@ public class SpawnerBarco : MonoBehaviour
     public void SpawnPositions()
     {
         int randomPosition = Random.Range(0, posicionSpawner.Length);
-        Debug.Log("El numero es : "+randomPosition);
+      
         if (Random.value <= posicionSpawner.Length)
         {
             Vector2 laPosicion = posicionSpawner[randomPosition].transform.position;

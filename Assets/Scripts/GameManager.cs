@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.Audio;
+using UnityEngine.UI;
 
 public enum EstadoDelJuego
 {
@@ -32,7 +33,9 @@ public class GameManager : MonoBehaviour
     public GameObject finDelJuego;
     public GameObject acercaDe;
 
-    
+    public GameObject loadingScreen;
+
+    public Slider loadBar;
   
 
 
@@ -157,19 +160,20 @@ public class GameManager : MonoBehaviour
     {
         if (juegoElejido == Juegos.Clasificacion)
         {
-            SceneManager.LoadScene("ClasificacionDeDesechos");
+            StartCoroutine(LoadingEscene("ClasificacionDeDesechos"));
            
             IniciarJuego();
 
         }else if (juegoElejido == Juegos.Huerta)
         {
-            SceneManager.LoadScene("Invernadero");
+            StartCoroutine(LoadingEscene("Invernadero"));
+          
 
             IniciarJuego();
         }
         else if (juegoElejido == Juegos.Barco)
         {
-            SceneManager.LoadScene("Barco");
+            StartCoroutine(LoadingEscene("Barco"));
 
             IniciarJuego();
         }
@@ -195,7 +199,27 @@ public class GameManager : MonoBehaviour
         acercaDe.SetActive(false);
     }
 
+    IEnumerator LoadingEscene(string escena)
+    {
 
+        loadingScreen.SetActive(true);
+        loadBar.value = 0;
+
+        float numeroPrueba = 0f;
+
+        while (numeroPrueba!=10)
+        {
+            numeroPrueba += 2.5f;
+
+            loadBar.value = numeroPrueba;
+
+            yield return new WaitForSeconds(0.3f);
+        }
+        
+        SceneManager.LoadScene(escena);
+
+
+    }
 
 
 }
