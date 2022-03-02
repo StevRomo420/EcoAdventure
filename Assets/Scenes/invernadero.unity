@@ -411,21 +411,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602596169087666, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087667, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1898869409}
+    - target: {fileID: 1237602596169087667, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_RenderMode
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087667, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_SortingOrder
       value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Pivot.x
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Pivot.y
-      value: 0
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_RootOrder
@@ -449,11 +457,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 0
+      value: 1920.0001
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0
+      value: 1080
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0129629625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0129629625
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0129629625
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_LocalPosition.x
@@ -465,7 +485,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 90
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087668, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1997,7 +2017,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!223 &1829540249
 Canvas:
   m_ObjectHideFlags: 0
@@ -2007,7 +2027,7 @@ Canvas:
   m_GameObject: {fileID: 1829540246}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 1
+  m_RenderMode: 2
   m_Camera: {fileID: 1898869409}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -2027,8 +2047,8 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1829540246}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 90}
+  m_LocalScale: {x: 0.0129629625, y: 0.0129629625, z: 0.0129629625}
   m_Children:
   - {fileID: 125619174}
   - {fileID: 1546506897}
@@ -2043,8 +2063,8 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0, y: 0}
+  m_SizeDelta: {x: 1920.0001, y: 1080}
+  m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1829540251
 Animator:
   serializedVersion: 3
