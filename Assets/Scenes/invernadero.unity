@@ -565,7 +565,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597783666392, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: JuegoHuerta
+      value: JuegoHuertaPA
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597894221115, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_IsActive

@@ -156,6 +156,22 @@ public class GameManager : MonoBehaviour
     }
 
 
+    public void JuegoClasificacionPA()
+    {
+        SceneManager.LoadScene("ClasificacionDeDesechos");
+    }
+
+    public void JuegoHuertaPA()
+    {
+        SceneManager.LoadScene("Invernadero");
+    }
+
+    public void JuegoBarcoPA()
+    {
+        SceneManager.LoadScene("Barco");
+    }
+
+
     void CambiarJuego(Juegos juegoElejido)
     {
         if (juegoElejido == Juegos.Clasificacion)

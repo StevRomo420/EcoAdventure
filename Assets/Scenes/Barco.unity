@@ -180,6 +180,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: efe635494d981654f90952782da2dc43, type: 3}
+--- !u!114 &28910872 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 1237602597783666391, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+  m_PrefabInstance: {fileID: 1338306926}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75f2aaa67fcc1f54c86ac51c62efedc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &34216181 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
@@ -2572,9 +2583,21 @@ PrefabInstance:
       propertyPath: m_Text
       value: 'Desechos solidos recolectados:'
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602597783666391, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: loadBar
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597783666391, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: loadingScreen
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597783666392, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 28910872}
     - target: {fileID: 1237602597783666392, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: JuegoBarco
+      value: JuegoBarcoPA
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597894221119, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Sprite

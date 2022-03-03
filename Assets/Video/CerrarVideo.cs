@@ -28,6 +28,7 @@ public class CerrarVideo : MonoBehaviour
 
     void CheckOver(VideoPlayer videoPlayer)
     {
+        video.Stop();
         SceneManager.LoadScene("MenuPricipal");
         
     }
