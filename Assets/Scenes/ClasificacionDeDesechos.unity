@@ -593,6 +593,63 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
+--- !u!1001 &480938237
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 623620346420697411, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_Name
+      value: Medidor
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.61
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 623620346420697422, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 018a08fbe6692a04d94bf586aab454a5, type: 3}
 --- !u!4 &500037266 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8524388662650220318, guid: 6c53e9dd66c735845943147edb5ad55d, type: 3}
@@ -2716,6 +2773,14 @@ PrefabInstance:
     - target: {fileID: 1184990039058710628, guid: 666e17f274f0eac449cb39ddf4f80d27, type: 3}
       propertyPath: m_Name
       value: Jugador
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184990039058710630, guid: 666e17f274f0eac449cb39ddf4f80d27, type: 3}
+      propertyPath: vida
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 1184990039058710630, guid: 666e17f274f0eac449cb39ddf4f80d27, type: 3}
+      propertyPath: puntos
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1184990039058710631, guid: 666e17f274f0eac449cb39ddf4f80d27, type: 3}
       propertyPath: m_RootOrder

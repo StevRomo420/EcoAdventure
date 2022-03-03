@@ -88,7 +88,16 @@ public class ClasificacionManager : MonoBehaviour
                 subirDificultad = false;
             }
         }
-      
+        else if (jugador.puntos >= 3000)
+        {
+            subirDificultad = true;
+            if (subirDificultad == true)
+            {
+                basuraRigibodoy.gravityScale = 3f; ;
+                subirDificultad = false;
+            }
+        }
+
 
 
     }
