@@ -23,10 +23,6 @@ public class BarcoMove : MonoBehaviour
 
 
 
-
-
-  
-
     // Start is called before the first frame update
     void Start()
     {
@@ -39,7 +35,8 @@ public class BarcoMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-         Entradas();
+       Entradas();
+       
     }
 
     void FixedUpdate()
@@ -50,6 +47,8 @@ public class BarcoMove : MonoBehaviour
   
     void Entradas()
     {
+
+
         if (Input.GetMouseButtonDown(0))
         {
             mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -61,7 +60,7 @@ public class BarcoMove : MonoBehaviour
          transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);
             animator.SetBool(MOVIMIENTO_BARCO,true);
         }
-        else
+        else if(moveDirection==Vector2.zero)
         {
             animator.SetBool(MOVIMIENTO_BARCO,false);
         }
@@ -72,32 +71,29 @@ public class BarcoMove : MonoBehaviour
     void Move()
     {
        
-        rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
+       rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
     }
-
-
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "Remolino")
         {
-            moveSpeed = 6f;
+            moveSpeed = 3f;
         }else if (collision.tag == "Basura")
         {
             Destroy(collision.gameObject);
         }
-
-        
-
-     
+  
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
         if (collision.tag == "Remolino")
         {
-            moveSpeed = 12f;
+            moveSpeed = 6f;
         }
     }
+
+ 
 
 
 }
