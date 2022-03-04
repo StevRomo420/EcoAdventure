@@ -2625,6 +2625,7 @@ GameObject:
   - component: {fileID: 617797804}
   - component: {fileID: 617797803}
   - component: {fileID: 617797802}
+  - component: {fileID: 617797805}
   m_Layer: 5
   m_Name: RegresarTutorial
   m_TagString: Untagged
@@ -2696,13 +2697,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 617797800}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 617797805}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: CerrarInstruciones
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -2746,6 +2747,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 617797800}
   m_CullTransparentMesh: 1
+--- !u!114 &617797805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 617797800}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TutorialClasificacion: {fileID: 916476102}
+  TutorialBarco: {fileID: 1793453855}
+  TutorialInvernadero: {fileID: 0}
+  Instrusiones: {fileID: 280570701}
 --- !u!1 &693539522
 GameObject:
   m_ObjectHideFlags: 0
@@ -3409,7 +3426,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &916476103
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6131,13 +6148,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1522697278}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1522697283}
+        m_TargetAssemblyTypeName: MenuManager, Assembly-CSharp
+        m_MethodName: AbrirInstruciones
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -6190,16 +6207,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1522697278}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 75f2aaa67fcc1f54c86ac51c62efedc5, type: 3}
+  m_Script: {fileID: 11500000, guid: 06fd6b57c55922a46b0ff747922eec2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  estadoActual: 0
-  juegoActual: 0
-  menuPausa: {fileID: 729758008}
-  finDelJuego: {fileID: 729758008}
-  acercaDe: {fileID: 1011162518}
-  loadingScreen: {fileID: 1551081835}
-  loadBar: {fileID: 380394479}
+  TutorialClasificacion: {fileID: 916476102}
+  TutorialBarco: {fileID: 1793453855}
+  TutorialInvernadero: {fileID: 0}
+  Instrusiones: {fileID: 280570701}
 --- !u!1 &1537774813
 GameObject:
   m_ObjectHideFlags: 0
