@@ -229,7 +229,7 @@ RectTransform:
   m_GameObject: {fileID: 31969048}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_Children: []
   m_Father: {fileID: 1343904037}
   m_RootOrder: 0
@@ -696,8 +696,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 589, y: -81.005}
-  m_SizeDelta: {x: 353.58, y: 62.33}
+  m_AnchoredPosition: {x: 432.89, y: -65.72999}
+  m_SizeDelta: {x: 665.79, y: 92.88}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &103685811
 MonoBehaviour:
@@ -720,7 +720,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: e8f8bef2c93a44d429ce7c9120687b78, type: 3}
+    m_Font: {fileID: 12800000, guid: d0095fcd840ac354f8dbd10c9c9fcbb2, type: 3}
     m_FontSize: 25
     m_FontStyle: 0
     m_BestFit: 0
@@ -5097,7 +5097,7 @@ RectTransform:
   m_GameObject: {fileID: 1315707967}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_Children: []
   m_Father: {fileID: 294992459}
   m_RootOrder: 0
@@ -5129,17 +5129,17 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: d0095fcd840ac354f8dbd10c9c9fcbb2, type: 3}
-    m_FontSize: 7
+    m_FontSize: 8
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 7
+    m_MinSize: 1
     m_MaxSize: 40
     m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
-    m_LineSpacing: 0.8
+    m_LineSpacing: 1
   m_Text: claficacion de desechos
 --- !u!222 &1315707970
 CanvasRenderer:
@@ -6407,8 +6407,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 847.73, y: 447.94}
-  m_SizeDelta: {x: 119.43, y: 80.14}
+  m_AnchoredPosition: {x: 859, y: 433}
+  m_SizeDelta: {x: 113.45, y: 105.38}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1586303735
 MonoBehaviour:
@@ -6828,7 +6828,7 @@ RectTransform:
   m_GameObject: {fileID: 1644698000}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_Children: []
   m_Father: {fileID: 1338128827}
   m_RootOrder: 0
@@ -8317,8 +8317,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 433}
-  m_SizeDelta: {x: 745.98, y: 78.59}
+  m_AnchoredPosition: {x: -99.304, y: 404.14}
+  m_SizeDelta: {x: 944.59, y: 136.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2036345702
 MonoBehaviour:
@@ -8341,7 +8341,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: e8f8bef2c93a44d429ce7c9120687b78, type: 3}
+    m_Font: {fileID: 12800000, guid: d0095fcd840ac354f8dbd10c9c9fcbb2, type: 3}
     m_FontSize: 35
     m_FontStyle: 0
     m_BestFit: 0
@@ -8353,7 +8353,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Clasificacion de desechos
+  m_Text: 'Clasificacion de desechos
+
+    solidos'
 --- !u!222 &2036345703
 CanvasRenderer:
   m_ObjectHideFlags: 0
