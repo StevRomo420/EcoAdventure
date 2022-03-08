@@ -732,7 +732,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Barco
+  m_Text: Eco-ship
 --- !u!222 &98207157
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2101,7 +2101,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Eco Aventure \nTCU-656"
+  m_Text: "Eco Adventure \nTCU-656"
 --- !u!222 &362191303
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -6306,8 +6306,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -50.64, y: -73}
-  m_SizeDelta: {x: 1273.82, y: 506.88}
+  m_AnchoredPosition: {x: -50.64, y: -75.674965}
+  m_SizeDelta: {x: 1273.82, y: 621.27}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1025460053
 MonoBehaviour:
@@ -6345,9 +6345,10 @@ MonoBehaviour:
   m_Text: "                                                            Animacion
     y Desarrollo\n\nChaves Mora Aldahir\t\r\nVasquez Murillo Erick\t\r\nRosales Mora
     Esteban \t\r\nDavila Perez Jose  Pablo\r\n\n                                                                          
-    Audio\n\nAudio tomado de Epidemic Sound\n\n                                                                        
+    Audio\n\nAudio tomado de Epidemic Sound\nBensound\n\n                                                                        
     Objetivo\n\nDesarrollar un videojuego que fomente la educacion y accion ambiental
-    en los estudiantes de primaria en las comunidades de Guanacaste."
+    en los estudiantes de primaria en las comunidades de Guanacaste.\n\n                                                                         
+    Contacto\nesteban5420978@hotmail.com\ncontact@erickvasm.com\r\njosedp_05@hotmail.com\r\naldahircm@gmail.com\r\n"
 --- !u!222 &1025460054
 CanvasRenderer:
   m_ObjectHideFlags: 0
