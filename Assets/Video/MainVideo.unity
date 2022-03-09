@@ -656,7 +656,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7dc752de3f03d44592dd86a23379f73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  changeTime: 56
+  changeTime: 55
   sceneName: MenuPricipal
 --- !u!4 &1072044288
 Transform:
