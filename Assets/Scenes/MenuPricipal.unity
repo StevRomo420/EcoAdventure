@@ -6571,13 +6571,13 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 300
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: INSTRUCIONES DE JUEGO
+  m_Text: INSTRUCCIONES DE JUEGO
 --- !u!222 &1155002632
 CanvasRenderer:
   m_ObjectHideFlags: 0
