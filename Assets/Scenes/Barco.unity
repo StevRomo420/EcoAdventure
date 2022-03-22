@@ -2531,13 +2531,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596222729867, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 354
+      value: 388
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596367718272, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Text
-      value: 'Desechos
-
-        solidos:'
+      value: 'Puntos:'
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596367718272, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_FontData.m_VerticalOverflow
@@ -2547,21 +2545,29 @@ PrefabInstance:
       propertyPath: m_FontData.m_HorizontalOverflow
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602596367718335, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 469
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596557980064, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596714837416, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -543
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602596714837416, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 350
+      value: 388
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596896668858, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 297
+      value: 171
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596896668858, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -66
+      value: -24
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597249918343, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Sprite
@@ -2577,11 +2583,11 @@ PrefabInstance:
       objectReference: {fileID: -2507141303412948246, guid: 4bd31b5eeb73bef4aa46ebffbc63eba5, type: 3}
     - target: {fileID: 1237602597606023093, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 436
+      value: 466
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597740605526, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Text
-      value: 'Desechos solidos recolectados:'
+      value: 'Puntos:'
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597783666391, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: loadBar
@@ -3371,7 +3377,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.77
+      value: 7.19
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.z
