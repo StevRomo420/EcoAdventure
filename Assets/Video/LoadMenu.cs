@@ -18,5 +18,5 @@ public class LoadMenu : MonoBehaviour
             SceneManager.LoadScene(sceneName);
         }
     }
- 
+  
 }
