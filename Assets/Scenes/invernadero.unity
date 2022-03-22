@@ -403,6 +403,27 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: Tips.Array.data[0]
+      value: Puedes crear tu propio abono(composte) 100 porciento natural con los
+        residuos organicos que se producen en el hogar, como las cascaras de frutas
+        o verduras.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: Tips.Array.data[1]
+      value: Una buena practica es el cultivo de alimentos de manera organica, evitando
+        el uso de agroquimicos o pesticidas que afectan a fauna y flora, ademas que
+        algunos agroquimos poseen derivados del petroleo.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: Tips.Array.data[2]
+      value: Una manera de ayudar el medio ambiente es reforestando, de esta manera
+        permitiendo que diversos ecosistemas puedan subsistir en completa armonia.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596152853566, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: juegoActual
       value: 1
@@ -410,6 +431,10 @@ PrefabInstance:
     - target: {fileID: 1237602596169087664, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602596169087664, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087666, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_PresetInfoIsWorld
@@ -526,6 +551,42 @@ PrefabInstance:
     - target: {fileID: 1237602596557980064, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 770.78
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 246.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0.000015258789
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 145
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523237, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_MaxSize
+      value: 95
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523237, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597190523237, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_Alignment
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597249918343, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Sprite
@@ -1671,12 +1732,20 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.x
       value: -8.97
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.1781397
+      value: 5.26
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.z

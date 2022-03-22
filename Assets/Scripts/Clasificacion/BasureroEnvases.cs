@@ -23,7 +23,7 @@ public class BasureroEnvases : MonoBehaviour
         if (collision.tag == "Envases")
         {
 
-            jugador.Ganar(100);
+            jugador.Ganar(200);
 
             Destroy(collision.gameObject);
             elemento.SpawnRandomGameObject();

@@ -109,7 +109,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 1.8530502, y: 0.64595455}
-  m_EdgeRadius: 0
+  m_EdgeRadius: 100
 --- !u!114 &3080709266971917303
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -124,3 +124,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawner: {fileID: 0}
   jugador: {fileID: 0}
+  puntos: 0

@@ -2417,6 +2417,24 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: Tips.Array.data[0]
+      value: Entre un 60 y 80 porciento de los residuos marinos son plastico, en
+        su mayoria son fragmentos menores a los cinco milimetros, por eso evitar
+        el uso indiscriminado del plastico es necesario.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: Tips.Array.data[1]
+      value: Actualmente la vida marina se ve afectada por la cantidad de residuos
+        que llegan al mar, como el plastico que es uno de los residuos solidos mas
+        comunes, por eso deberiamos evitarlo.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: Tips.Array.data[2]
+      value: Mas del 50 porciento de las tortugas marinas mueren por haber ingerido
+        alguna forma de residuo solido. Si queremos salvar la vida marina, debemos
+        pensar bien el uso que le damos al plastico.
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087664, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -2531,7 +2549,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596222729867, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 388
+      value: 413
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596367718272, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Text
@@ -2547,7 +2565,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596367718335, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 469
+      value: 492
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596557980064, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_IsActive
@@ -2555,19 +2573,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596714837416, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -543
+      value: -622
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596714837416, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 388
+      value: 416
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596896668858, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 171
+      value: 170
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596896668858, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -24
+      value: -220
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597249918343, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Sprite
@@ -2583,11 +2601,11 @@ PrefabInstance:
       objectReference: {fileID: -2507141303412948246, guid: 4bd31b5eeb73bef4aa46ebffbc63eba5, type: 3}
     - target: {fileID: 1237602597606023093, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 466
+      value: 489
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597740605526, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Text
-      value: 'Puntos:'
+      value: 'Puntaje alcanzado:'
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597783666391, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: loadBar
@@ -3372,12 +3390,20 @@ PrefabInstance:
       value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.x
       value: -7.6830273
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.19
+      value: 7.58
       objectReference: {fileID: 0}
     - target: {fileID: 8298209432413615051, guid: 0459567c1b575044a95dbb0beb45e6de, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3539,9 +3565,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   basuraMar:
-  - {fileID: 8561184759075360895, guid: 89a5eef04b4a3444b98ab0552f269b48, type: 3}
   - {fileID: 7568054597311759505, guid: 04fcc1b9348fb7240880c27fc68a8113, type: 3}
   - {fileID: 1518168140613499287, guid: 598ce556844b3334886cc52aba2942bb, type: 3}
+  - {fileID: 8561184759075360895, guid: 89a5eef04b4a3444b98ab0552f269b48, type: 3}
   - {fileID: 8428541408831920593, guid: 874c0037177e855468523d21f95ee8a0, type: 3}
   - {fileID: 2705066937132212858, guid: 8f7e9ade7330fd3479c514f69e1079ba, type: 3}
   - {fileID: 4450042500460406524, guid: e76ea19925bad194d8fb54afc290aee7, type: 3}

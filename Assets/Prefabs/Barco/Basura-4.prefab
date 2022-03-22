@@ -114,3 +114,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawner: {fileID: 0}
   jugador: {fileID: 0}
+  puntos: 200

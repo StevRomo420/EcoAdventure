@@ -113,4 +113,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawner: {fileID: 0}
-  coli: {fileID: 0}
+  jugador: {fileID: 0}
+  puntos: 100

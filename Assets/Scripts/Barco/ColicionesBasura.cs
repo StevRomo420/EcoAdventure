@@ -6,6 +6,7 @@ public class ColicionesBasura : MonoBehaviour
 {
     public SpawnerBarco spawner;
     public Jugador jugador;
+    public int puntos;
    
 
     private void Start()
@@ -20,7 +21,7 @@ public class ColicionesBasura : MonoBehaviour
         if (collision.tag == "Barco")
         {
             spawner.Borrar();
-            jugador.Ganar(1);
+            jugador.Ganar(puntos);
             
         }
     }
