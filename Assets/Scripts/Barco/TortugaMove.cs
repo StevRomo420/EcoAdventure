@@ -22,26 +22,34 @@ public class TortugaMove : MonoBehaviour
     
     void Update()
     {
-        transform.position = Vector2.MoveTowards(transform.position,posiciones[index], Time.deltaTime * moveSpeed);
-
-
-        if (transform.position ==posiciones[index])
+        if (jugador.vidaRestante() != 0)
         {
-            if(index== posiciones.Length - 1)
+
+
+            transform.position = Vector2.MoveTowards(transform.position, posiciones[index], Time.deltaTime * moveSpeed);
+
+
+            if (transform.position == posiciones[index])
             {
-                index = 0;
-                cambiador.flipX = false;
-            }
-            else
-            {
-                index++;
-                cambiador.flipX = true;
+                if (index == posiciones.Length - 1)
+                {
+                    index = 0;
+                    cambiador.flipX = false;
+                }
+                else
+                {
+                    index++;
+                    cambiador.flipX = true;
+
+                }
 
             }
 
         }
-        
-
+        else
+        {
+            transform.position = Vector2.MoveTowards(transform.position, posiciones[index], Time.deltaTime * 0);
+        }
         
     }
 

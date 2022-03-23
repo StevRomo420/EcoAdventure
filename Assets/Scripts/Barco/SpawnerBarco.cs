@@ -11,27 +11,36 @@ public class SpawnerBarco : MonoBehaviour
     public GameObject[] posicionSpawner;
     private Vector2 posicionFinal;
     private GameObject laBasura;
+    public Jugador jugador;
 
 
- 
 
     private void Start()
     { 
         SpawnRandonGarbage();
+
+        GameObject player = GameObject.Find("Jugador");
+        jugador = player.GetComponent<Jugador>();
     }
 
     public void SpawnRandonGarbage()
     {
-        SpawnPositions();
-
-        int randomSeaGarbage = Random.Range(0, basuraMar.Length);
-
-        if (Random.value <= basuraMar.Length)
+        if (jugador.vidaRestante() != 0 && jugador.vidaRestante()>0)
         {
-            laBasura = Instantiate(basuraMar[randomSeaGarbage]);
 
-            laBasura.transform.position = new Vector2(posicionFinal.x,posicionFinal.y);
+
+            SpawnPositions();
+
+            int randomSeaGarbage = Random.Range(0, basuraMar.Length);
+
+            if (Random.value <= basuraMar.Length)
+            {
+                laBasura = Instantiate(basuraMar[randomSeaGarbage]);
+
+                laBasura.transform.position = new Vector2(posicionFinal.x, posicionFinal.y);
+            }
         }
+
     }
 
     public void SpawnPositions()

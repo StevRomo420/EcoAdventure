@@ -47,31 +47,34 @@ public class BarcoMove : MonoBehaviour
   
     void Entradas()
     {
-
-
-        if (Input.GetMouseButtonDown(0))
+        if (player.vidaRestante() > 0)
         {
-            mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            moveDirection = (mousePosition - transform.position).normalized;
 
-        }else if (moveDirection != Vector2.zero)
-        {
-        Quaternion toRotation = Quaternion.LookRotation(Vector3.forward, moveDirection);
-         transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);
-            animator.SetBool(MOVIMIENTO_BARCO,true);
+
+
+            if (Input.GetMouseButtonDown(0))
+            {
+                mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+                moveDirection = (mousePosition - transform.position).normalized;
+
+            }
+            else if (moveDirection != Vector2.zero)
+            {
+                Quaternion toRotation = Quaternion.LookRotation(Vector3.forward, moveDirection);
+                transform.rotation = Quaternion.RotateTowards(transform.rotation, toRotation, rotationSpeed * Time.deltaTime);
+                animator.SetBool(MOVIMIENTO_BARCO, true);
+            }
+            else if (moveDirection == Vector2.zero)
+            {
+                animator.SetBool(MOVIMIENTO_BARCO, false);
+            }
         }
-        else if(moveDirection==Vector2.zero)
-        {
-            animator.SetBool(MOVIMIENTO_BARCO,false);
-        }
-
 
     }
 
     void Move()
     {
-       
-       rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
+            rb.velocity = new Vector2(moveDirection.x * moveSpeed, moveDirection.y * moveSpeed);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)

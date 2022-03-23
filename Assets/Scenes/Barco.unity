@@ -2567,6 +2567,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 492
       objectReference: {fileID: 0}
+    - target: {fileID: 1237602596554731214, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596557980064, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -2594,6 +2598,22 @@ PrefabInstance:
     - target: {fileID: 1237602597314946236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597314946238, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Color.a
+      value: 0.41960785
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597314946238, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597314946238, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602597314946238, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1237602597411699077, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Sprite
@@ -3594,6 +3614,7 @@ MonoBehaviour:
   - {fileID: 498498589}
   - {fileID: 266411929}
   - {fileID: 1789711653}
+  jugador: {fileID: 424065020}
 --- !u!4 &1941437393
 Transform:
   m_ObjectHideFlags: 0
