@@ -57,9 +57,8 @@ Guanacaste.
 
 ![](https://i.ibb.co/FhgbZCq/img2.png)
 
-## Documentos
-
-## Instalador
+## Documentos e Instalador
+[Aquí](https://github.com/StevRomo420/EcoAdventure/releases)
 
 ## Licencia
 [Creative Commons 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
