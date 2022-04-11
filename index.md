@@ -1,6 +1,3 @@
-# Eco-Adventure
-Juego desarrollado para el proyecto del Trabajo comunal TCU-656 Educación y acción ambiental para el desarrollo sostenible en comunidades guanacastecas de la Universidad de Costa Rica, sede Guancaste.
-
 ![](https://i.ibb.co/NSthnf3/logo-modified.png)
 
 
