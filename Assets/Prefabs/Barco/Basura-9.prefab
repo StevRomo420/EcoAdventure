@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &3895145892549009053
+--- !u!1 &2453748310642067379
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,10 +8,10 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 3133638710840427556}
-  - component: {fileID: 4787326774065049331}
-  - component: {fileID: 7184246759016502699}
-  - component: {fileID: 4409410407463085705}
+  - component: {fileID: 5689257603889109050}
+  - component: {fileID: 1908524154639403256}
+  - component: {fileID: 3962392969061834820}
+  - component: {fileID: 2084881690756200631}
   m_Layer: 0
   m_Name: Basura-9
   m_TagString: BasuraMar
@@ -19,27 +19,27 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &3133638710840427556
+--- !u!4 &5689257603889109050
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3895145892549009053}
+  m_GameObject: {fileID: 2453748310642067379}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 34.399998, y: 2.1200001, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalPosition: {x: 20.9035, y: 1.6343002, z: 0}
+  m_LocalScale: {x: 0.42187104, y: 0.5173142, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &4787326774065049331
+--- !u!212 &1908524154639403256
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3895145892549009053}
+  m_GameObject: {fileID: 2453748310642067379}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -84,20 +84,20 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!61 &7184246759016502699
+--- !u!61 &3962392969061834820
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3895145892549009053}
+  m_GameObject: {fileID: 2453748310642067379}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.014537811, y: 0.058181763}
+  m_Offset: {x: -0.026093483, y: -0.021280587}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -108,15 +108,15 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.8299942, y: 0.7375355}
-  m_EdgeRadius: 100
---- !u!114 &4409410407463085705
+  m_Size: {x: 1.7846711, y: 0.6723337}
+  m_EdgeRadius: 0
+--- !u!114 &2084881690756200631
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3895145892549009053}
+  m_GameObject: {fileID: 2453748310642067379}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 87fcc89e868a17a4284680453d043d7f, type: 3}
@@ -124,4 +124,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spawner: {fileID: 0}
   jugador: {fileID: 0}
-  puntos: 0
+  puntos: 100

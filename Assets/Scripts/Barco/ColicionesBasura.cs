@@ -20,8 +20,12 @@ public class ColicionesBasura : MonoBehaviour
     {
         if (collision.tag == "Barco")
         {
-            spawner.Borrar();
-            jugador.Ganar(puntos);
+
+                spawner.Borrar();
+                jugador.Ganar(puntos);
+            
+           
+           
             
         }
     }
