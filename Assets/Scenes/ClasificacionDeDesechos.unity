@@ -2953,6 +2953,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1536.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 327.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 33.180004
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 30
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087664, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -3049,6 +3073,10 @@ PrefabInstance:
       propertyPath: p2
       value: 
       objectReference: {fileID: 1544117079}
+    - target: {fileID: 1237602597314946236, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1237602597606023094, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: p2
       value: 

@@ -464,6 +464,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1544.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 327.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 1.77
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 33.180004
+      objectReference: {fileID: 0}
     - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: Tips.Array.data[0]
       value: Puedes crear tu propio abono(composte) 100 porciento natural con los
@@ -484,6 +500,18 @@ PrefabInstance:
     - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Text
       value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 1237602596152853561, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596152853566, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: juegoActual

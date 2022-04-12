@@ -2417,11 +2417,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1540.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 327.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077533, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 33.180004
+      objectReference: {fileID: 0}
     - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: Tips.Array.data[0]
-      value: Entre un 60 y 80 porciento de los residuos marinos son plastico, en
-        su mayoria son fragmentos menores a los cinco milimetros, por eso evitar
-        el uso indiscriminado del plastico es necesario.
+      value: Muchos de los residuos marinos son plastico, evitar el uso indiscriminado
+        del plastico es necesario.
       objectReference: {fileID: 0}
     - target: {fileID: 1037077534, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: Tips.Array.data[1]
@@ -2434,6 +2449,18 @@ PrefabInstance:
       value: Mas del 50 porciento de las tortugas marinas mueren por haber ingerido
         alguna forma de residuo solido. Si queremos salvar la vida marina, debemos
         pensar bien el uso que le damos al plastico.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_Text
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_MinSize
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1037077535, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 1237602596169087664, guid: 361d5242c0539564b8513cdd10d425be, type: 3}
       propertyPath: m_Name
