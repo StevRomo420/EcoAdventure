@@ -52,13 +52,13 @@ MonoBehaviour:
     recurso: {fileID: 0}
   - nombre: Ganar
     clip: {fileID: 8300000, guid: edefe8544bb7cfd4ba99e7caf8239896, type: 3}
-    volumen: 0.128
+    volumen: 0.2
     pitch: 1.04
     loop: 0
     recurso: {fileID: 0}
   - nombre: Perder
     clip: {fileID: 8300000, guid: b291e1db073105041ab00c63692df23a, type: 3}
-    volumen: 0.121
+    volumen: 0.2
     pitch: 1.04
     loop: 0
     recurso: {fileID: 0}
@@ -70,6 +70,12 @@ MonoBehaviour:
     recurso: {fileID: 0}
   - nombre: Menu
     clip: {fileID: 8300000, guid: 65c4bb554ad71c241aff73d46a1d84b3, type: 3}
+    volumen: 0.144
+    pitch: 1.09
+    loop: 1
+    recurso: {fileID: 0}
+  - nombre: InvernaderoTemaPrincipal
+    clip: {fileID: 8300000, guid: e6b682eb99e2bdc43b4d675e798984cb, type: 3}
     volumen: 0.144
     pitch: 1.09
     loop: 1

@@ -1714,30 +1714,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
-      propertyPath: audios.Array.size
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
-      propertyPath: audios.Array.data[5].clip
-      value: 
-      objectReference: {fileID: 8300000, guid: e6b682eb99e2bdc43b4d675e798984cb, type: 3}
-    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
-      propertyPath: audios.Array.data[5].loop
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
-      propertyPath: audios.Array.data[5].pitch
-      value: 1.09
-      objectReference: {fileID: 0}
-    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
-      propertyPath: audios.Array.data[5].nombre
-      value: InvernaderoTemaPrincipal
-      objectReference: {fileID: 0}
-    - target: {fileID: 6557268678581786384, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
-      propertyPath: audios.Array.data[5].volumen
-      value: 0.144
-      objectReference: {fileID: 0}
     - target: {fileID: 6557268678581786385, guid: f0db418a4c131304f80a7e127e3e9199, type: 3}
       propertyPath: m_RootOrder
       value: 12
