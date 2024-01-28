@@ -15,7 +15,6 @@ Eco-ship se desarrolla en un mar plagado de basura que llevará al jugador a tra
 Por otro lado, la clasificación de desechos sólidos busca reforzar la costumbre de separar los residuos de manera correcta, por el hecho de que el jugador se enfrentará a una lluvia de desechos y deberá clasificarlos de manera ágil y rápida.
 Concluyendo así con el invernadero, donde el jugador deberá cuidar de las plantas para así poder tener una cosecha abundante, pero en caso de despistarse un poco las plantas podrían no sobrevivir por falta de nutrientes o quien sabe buena música. 
 
-
 ## Propuesta
 Se pretende rescatar que el ambiente no se trata únicamente del espacio en el cual se
 desarrolla la vida, sino que también abarca seres vivos, agua, suelo, aire y las relaciones entre
@@ -56,6 +55,9 @@ Guanacaste.
 
 ## Documentos e Instalador
 [Aquí](https://github.com/StevRomo420/EcoAdventure/releases)
+
+## Documentación Completa
+[Aquí](/Docs/INFORME%20FINAL.pdf)
 
 ## Licencia
 [Creative Commons 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
