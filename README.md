@@ -60,5 +60,8 @@ Guanacaste.
 ## Documentos e Instalador
 [Aquí](https://github.com/StevRomo420/EcoAdventure/releases)
 
+## Documentación Completa
+[Aquí](/Docs/INFORME%20FINAL.pdf)
+
 ## Licencia
 [Creative Commons 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
